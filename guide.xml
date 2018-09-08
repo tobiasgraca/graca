@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <icon src="http://www.guia-tv.pt/logos/rtp-1.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="RTP 1 FULLHD">
+    <display-name lang="pt">RTP 1 FULLHD</display-name>
+    <icon src="http://www.nowo.pt/resources/logos_canais/rtp_1__thumb9.png" />
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <icon src="http://www.guia-tv.pt/logos/rtp-2.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.cabovisao.pt</url>
+  </channel>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <icon src="http://www.guia-tv.pt/logos/sic.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="SIC FULLHD">
+    <display-name lang="pt">SIC FULLHD</display-name>
+    <icon src="http://www.nowo.pt/resources/logos_canais/sic_thumb9.png" />
+    <url>http://www.nowo.pt</url>
+  </channel>
+  <programme start="20180908000100 +0100" stop="20180908005400 +0100" channel="RTP 1 HD">
+    <title lang="pt">Aqui Tão Longe - Ep. 14</title>
+    <desc lang="pt">Em casa de Lurdes, a granada explode com pouca intensidade, fazendo apenas alguns estragos. Furiosa, Lurdes manda Martim embora de sua casa mas este recusa-se a ir porque já pagou a renda adiantada. João implora à avó que se acalme enquanto esta ameaça Martim de morte, à frente de Afonso e Carlos(n)</desc>
+  </programme>
+  <programme start="20180908005400 +0100" stop="20180908014200 +0100" channel="RTP 1 HD">
+    <title lang="pt">Anatomia de Grey T12 - Ep. 14</title>
+    <desc lang="pt">Esta série centra a sua história nas vidas profissionais e pessoais de um grupo de médicos-cirurgiões e dos seus supervisores(n)</desc>
+  </programme>
+  <programme start="20180908014200 +0100" stop="20180908021600 +0100" channel="RTP 1 HD">
+    <title lang="pt">Teresinha Landeiro - Namoro</title>
+    <desc lang="pt">Com o primeiro álbum recém-publicado, um dos segredos do fado passa a ser de todos: Teresinha Landeiro. Em tons castiços, como em 'Santo António Traiçoeiro', a cantora escreve também muitos dos textos que canta(n)</desc>
+  </programme>
+  <programme start="20180908021600 +0100" stop="20180908025200 +0100" channel="RTP 1 HD">
+    <title lang="pt">Lusa Music Box</title>
+    <desc lang="pt">Convidados, via Skype: Maria Bettencourt e Luís Gil Bettencourt (Ilha Terceira, Açores) e 'Afrika Rainbow' - Edson Levy, Danny Lobo e Jorge Baluka (Boston, Massachusetts, EUA). Videoclips: 'Colourblind' e 'No Chip In My Brain' (Maria Bettencourt); 'Kumplise di sistema' e 'Aleluia Jah' (Afrika Rainbow)(n)</desc>
+  </programme>
+  <programme start="20180908025200 +0100" stop="20180908032300 +0100" channel="RTP 1 HD">
+    <title lang="pt">As Novas Viagens Philosophicas</title>
+    <desc lang="pt">Um grupo de cientistas portugueses e brasileiros está a refazer os percursos do sapo ao longo de milhões de anos, estudando as adaptações de que a espécie foi capaz, e que lhe permitiram ocupar territórios com caraterísticas aparentemente adversas, tornando-se um invasor incontrolável na Austrália(n)</desc>
+  </programme>
+  <programme start="20180908032300 +0100" stop="20180908054200 +0100" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+  </programme>
+  <programme start="20180908054200 +0100" stop="20180908063000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Viva a Música - Ep. 18</title>
+    <desc lang="pt">Janita Salomé é um dos cantores que têm marcado as últimas décadas da música portuguesa. As deambulações deste experimentalista versátil e multifacetado transportam-no agora para um novo mundo visto através da pena dos poetas. É a sua voz sempre surpreendente que esta semana, enche o Palco da Rádio, num convite a todos para a 'Valsa dos Poetas', título do seu disco mais recente(n)</desc>
+  </programme>
+  <programme start="20180908063000 +0100" stop="20180908080000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+  </programme>
+  <programme start="20180908080000 +0100" stop="20180908095700 +0100" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="pt">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+  </programme>
+  <programme start="20180908095700 +0100" stop="20180908110000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Uma Mesa Portuguesa Com Certeza... Em Portugal</title>
+    <desc lang="pt">Nesta nova temporada o programa volta-se para dentro, para as origens e para os protagonistas que fazem com que a boa gastronomia portuguesa seja tão apreciada por nacionais e cada vez mais por estrageiros. Vamos continuar a divulgar o sucesso dos nossos pratos mais populares, partilhar receitas feitos com os produtos mais tradicionais(n)</desc>
+  </programme>
+  <programme start="20180908110000 +0100" stop="20180908130000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal</title>
+    <desc lang="pt">Ao longo de várias horas de emissão em direto, uma viagem pelo país para redescobrir usos e costumes, mas também a modernidade e a inovação. Um programa que irá proporcionar o que Portugal tem de melhor e um encontro com a realidade do ser português. Sónia Araújo, Jorge Gabriel e Hélder Reis são os anfitriões deste espaço(n)</desc>
+  </programme>
+  <programme start="20180908130000 +0100" stop="20180908135200 +0100" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
+  </programme>
+  <programme start="20180908135200 +0100" stop="20180908141800 +0100" channel="RTP 1 HD">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Da responsabilidade do Provedor do Telespetador, o programa que é exibido regularmente através de todas as Estações do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos em cada semana trazidos à apreciação do Provedor pelos Telespetadores(n)</desc>
+  </programme>
+  <programme start="20180908141800 +0100" stop="20180908160000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Futsal: Sporting x Fabril - Supertaça (Direto)</title>
+    <desc lang="pt">Transmissão, em direto, do jogo da Supertaça de Portugal de Futsal Masculino, a partir do Pavilhão Desportivo Municipal de Loulé. Medirão forças o vencedor da Liga Sport Zone e da Taça de Portugal, o Sporting CP, e o finalista vencido da Taça de Portugal, GD Fabril(n)</desc>
+  </programme>
+  <programme start="20180908160000 +0100" stop="20180908195900 +0100" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal: São João da Pesqueira</title>
+    <desc lang="pt">Ao longo de várias horas de emissão em direto, uma viagem pelo país para redescobrir usos e costumes, mas também a modernidade e a inovação. Um programa que irá proporcionar o que Portugal tem de melhor e um encontro com a realidade do ser português. Sónia Araújo, Jorge Gabriel e Hélder Reis são os anfitriões deste espaço(n)</desc>
+  </programme>
+  <programme start="20180908195900 +0100" stop="20180908210000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
+  </programme>
+  <programme start="20180908210000 +0100" stop="20180908215100 +0100" channel="RTP 1 HD">
+    <title lang="pt">Donos Disto Tudo</title>
+    <desc lang="pt">Um grupo de cinco comediantes - Ana Bola, Eduardo Madeira, Manuel Marques, Heitor Lourenço e Joana Pais de Brito - reúne-se todas as semanas para recriar e parodiar os principais temas da atualidade, com a ajuda de convidados especiais, num programa de sketches e momentos de stand up(n)</desc>
+  </programme>
+  <programme start="20180908215100 +0100" stop="20180908224500 +0100" channel="RTP 1 HD">
+    <title lang="pt">Verão M - Ep. 7</title>
+    <desc lang="pt">Rodrigo pede à mãe, Catarina, que o venha buscar a Moledo. Está chateado com o pai porque acha que Manel aceitou uma proposta de trabalho que o iria obrigar a viver longe dele. Catarina surge com bilhetes para levar os filhos a Londres(n)</desc>
+  </programme>
+  <programme start="20180908005800 +0100" stop="20180908012800 +0100" channel="RTP 2 HD">
+    <title lang="pt">Girls T5 - Ep. 8</title>
+    <desc lang="pt">A viagem de Hannah termina abruptamente, então Ray vai resgatá-la, mas o regresso a Nova Iorque torna-se conturbado. Adam visita apartamento de Laird. Shoshanna tenta reacostumar-se a viver nos Estados Unidos e Marnie descobre que existem regras para o seu relacionamento com Desi(n)</desc>
+  </programme>
+  <programme start="20180908012800 +0100" stop="20180908021500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Gomorra T2 - Ep. 10</title>
+    <desc lang="pt">Enquanto um dos homens de Ciro implora para que Dom Pietro volte a liderar a organização, Ciro força Patrizia, a ligação para o mundo exterior, a revelar o seu esconderijo. Quando isso acontece, Ciro mostra sinais de fraqueza(n)</desc>
+  </programme>
+  <programme start="20180908021500 +0100" stop="20180908024600 +0100" channel="RTP 2 HD">
+    <title lang="pt">SMS - Ser Mais Sabedor</title>
+    <desc lang="pt">E se os alunos descobrirem que estudar pode ser um divertimento? E se as matérias mais difíceis passarem a ser uma brincadeira? No SMS..(n)</desc>
+  </programme>
+  <programme start="20180908024600 +0100" stop="20180908055000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias(n)</desc>
+  </programme>
+  <programme start="20180908055000 +0100" stop="20180908063200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Os Nossos Dias T1 - Ep. 134</title>
+    <desc lang="pt">Susana, levada por Gabriel, encontra-se com Marta e Beatriz e decide viajar com elas para Espanha. A mãe comove-se com a decisão da filha mais velha, depois de Susana se mostrar disposta a abdicar dos estudos, dos amigos e de David, para as acompanhar. Gabriel insiste que é contra a fuga delas mas assume que as vai apoiar em tudo(n)</desc>
+  </programme>
+  <programme start="20180908063200 +0100" stop="20180908070000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Repórter África</title>
+    <desc lang="pt">Noticiário diário com a atualidade do continente africano(n)</desc>
+  </programme>
+  <programme start="20180908070000 +0100" stop="20180908080000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Euronews</title>
+    <desc lang="pt">Um programa que resulta da parceria entre a RTP e a Euronews, com sede em Lyon e onde trabalham, entre outros, 16 jornalistas portugueses, não pertencentes à RTP. As peças consideradas de maior interesse são enviadas diretamente pela Euronews, procedendo depois a RTP a uma triagem dessas notícias(n)</desc>
+  </programme>
+  <programme start="20180908080000 +0100" stop="20180908130500 +0100" channel="RTP 2 HD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o ZIG ZAG. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+  </programme>
+  <programme start="20180908130500 +0100" stop="20180908132300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Sim, Eu Consigo T2 - Ep. 6</title>
+    <desc lang="pt">Kenshi Sato é um jovem rapaz de onze anos de idade, que mora no distrito de Izari, na província de Tokushima, uma pequena vila de pescadores com uma população de cem pessoas. Izari é uma aldeia de mergulhadores. Durante o verão, eles saem para o mar e fazem mergulho livre sem cilindro de ar. Eles apanham abalone, uma iguaria culinária muito apreciada, do fundo do oceano(n)</desc>
+  </programme>
+  <programme start="20180908132300 +0100" stop="20180908135400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Paraíso - Ep. 11</title>
+    <desc lang="pt">O Hotel das Areias do Seixo é um caso de sucesso, vencedor de inúmeros prémios nacionais e internacionais e com uma presença constante na imprensa especializada de todo o mundo(n)</desc>
+  </programme>
+  <programme start="20180908135400 +0100" stop="20180908145000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Segredo De Família - Ep. 3</title>
+    <desc lang="pt">Fred Latour é um marido carinhoso, um pai atencioso e um filho dedicado. Para conseguir afastar da sua mente as preocupações diárias relacionadas com o trabalho, a sua esposa, sua mãe e sua filha organizam uma festa para seu 40º aniversário. Mas, ao subir as escadas até ao quarto para mudar de roupa, cai da varanda e morre(n)</desc>
+  </programme>
+  <programme start="20180908145000 +0100" stop="20180908172700 +0100" channel="RTP 2 HD">
+    <title lang="pt">Shakespeare - 400 Anos De Espanto - Ep. 4</title>
+    <desc lang="pt">Amplamente considerada como a última das suas peças a solo, A Tempestade é a obra-prima final, de Shakespeare, um conto de 'perdão, generosidade e iluminação' em que Próspero, o legítimo Duque de Milão, evoca uma tempestade para atrair o seu pérfido irmão a uma ilha encantada onde ele e sua filha Miranda passaram 12 anos no exílio(n)</desc>
+  </programme>
+  <programme start="20180908172700 +0100" stop="20180908180400 +0100" channel="RTP 2 HD">
+    <title lang="pt">Desalinhado</title>
+    <desc lang="pt">Um espaço para a descoberta, para o entretenimento, para a afirmação, para abrir a mente, para te alinhares ou desalinhares. No Desalinhado vais encontrar séries de ficção, magazines de ciência, cultura, moda, arte, reportagens e documentários de jovens noutros países e muitos mais conteúdos interessantes(n)</desc>
+  </programme>
+  <programme start="20180908180400 +0100" stop="20180908200500 +0100" channel="RTP 2 HD">
+    <title lang="pt">O Castelo No Céu</title>
+    <desc lang="pt">Um jovem rapaz tropeça numa misteriosa rapariga que cai literalmente do céu. A jovem Sheeta era perseguida por piratas e agentes secretos do governo(n)</desc>
+  </programme>
+  <programme start="20180908200500 +0100" stop="20180908203200 +0100" channel="RTP 2 HD">
+    <title lang="pt">Esec-TV</title>
+    <desc lang="pt">Nesta edição da ESEC TV: - Quebra Jazz com Jeffery Davis; - A rubrica 'Sítios' com André Sardet; - Sete Lágrimas no Festival das Artes(n)</desc>
+  </programme>
+  <programme start="20180908203200 +0100" stop="20180908205900 +0100" channel="RTP 2 HD">
+    <title lang="pt">Lendas Do Tofu - Ep. 4</title>
+    <desc lang="pt">Produzido a partir da soja, o tofu é originário da China. Os chineses antigos chamam-no de 'carne dos campos'. A textura, a variedade de modos de cozedura e valor nutritivo fazem do tofu um dos produtos mais utilizados pelo povo chinês ao longos séculos. Atualmente, o tofu faz parte de vários estilos de dieta no mundo inteiro(n)</desc>
+  </programme>
+  <programme start="20180908205900 +0100" stop="20180908213000 +0100" channel="RTP 2 HD">
+    <title lang="pt">Eco-Lógica T1 - Ep. 6</title>
+    <desc lang="pt">A determinação dos estados em promover a construção 'verde' levou à implementação de numerosas normas sobre materiais e eficiência energética dos edifícios(n)</desc>
+  </programme>
+  <programme start="20180908213000 +0100" stop="20180908215700 +0100" channel="RTP 2 HD">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O Jornal 2 contém as principais notícias da atualidade nacional e internacional. A equipa do Jornal 2 tem os factos, a investigação de cada um dos assuntos, a leitura do país e da sua realidade política e social feita por alguns dos protagonistas do momento e comentada por um alargado grupo de notáveis da sociedade civil com opinião feita de uma forte experiência de vida(n)</desc>
+  </programme>
+  <programme start="20180908215700 +0100" stop="20180908232300 +0100" channel="RTP 2 HD">
+    <title lang="pt">Carmen</title>
+    <desc lang="pt">Livre, apaixonada e ardente, Carmen é a figura heróica por excelência da cultura popular espanhola. A Companhia Nacional de Dança de Espanha desafiou o conceituado coreógrafo sueco Johan Inger a criar uma nova versão de Carmen. Unindo um coreógrafo do norte com uma emblemática companhia do sul, Carmen é um enorme sucesso, um mistério de sedução e violência, do amor até à morte(n)</desc>
+  </programme>
+  <programme start="20180908005000 +0100" stop="20180908014500 +0100" channel="SIC HD">
+    <title lang="pt">Mentes Criminosas: Sem Fronteiras T1 - Ep. 9</title>
+    <desc lang="pt">Quando uma rapariga americana sai de casa para se encontrar com o namorado na Turquia, a Equipa de Resposta Internacional suspeita que ela se encontra em sarilhos, depois de ter sido enganada por alguém que se fez passar por namorado dela(n)</desc>
+  </programme>
+  <programme start="20180908014500 +0100" stop="20180908024500 +0100" channel="SIC HD">
+    <title lang="pt">Beach Party T1 - Ep. 49</title>
+    <desc lang="pt">O Beach Party é o novo programa das madrugadas da SIC, ideal para quem gosta de ficar acordado até tarde nas noites de verão. Durante o Beach Party, os espetadores são convidados a participar por telefone, e em direto, nos jogos apresentados. São desafios divertidos e que colocam à prova os conhecimentos de cada espetador. Todas as noites são propostos jogos diferentes e dinâmicos(n)</desc>
+  </programme>
+  <programme start="20180908024500 +0100" stop="20180908033000 +0100" channel="SIC HD">
+    <title lang="pt">The Blacklist T4 - Ep. 2</title>
+    <desc lang="pt">Red recruta Tom e a equipa para ajudar a rastrear um famoso caçador de recompensas que pode saber o próximo passo de Alexander Kirk. Enquanto isso, Liz tenta perceber se Kirk é confiável(n)</desc>
+  </programme>
+  <programme start="20180908033000 +0100" stop="20180908060000 +0100" channel="SIC HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+  </programme>
+  <programme start="20180908060000 +0100" stop="20180908061500 +0100" channel="SIC HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Aspiradores mais potentes do que o motor de um avião, colchões insufláveis, máquinas que transformam a flácida barriga em portentosos abdominais e mais, muito mais, à distância de um telefonema(n)</desc>
+  </programme>
+  <programme start="20180908061500 +0100" stop="20180908065000 +0100" channel="SIC HD">
+    <title lang="pt">Etnias T18 - Ep. 36</title>
+    <desc lang="pt">Semanalmente, a jornalista Rita Rebelo apresenta o programa televisivo destinado às comunidades imigrantes em Portugal. Em aproximadamente 30 minutos, o Etnias faz a divulgação de informações úteis para os estrangeiros que escolheram Portugal para viver(n)</desc>
+  </programme>
+  <programme start="20180908065000 +0100" stop="20180908071500 +0100" channel="SIC HD">
+    <title lang="pt">Alvin E Os Esquilos T1 - Ep. 35</title>
+    <desc lang="pt">Dave Seville é um compositor de música com uma vida monótona até ao dia em que conhece Alvin, Simon e Theodore! Três esquilos muito especiais que por ironia do destino decidem ir morar em casa de Dave(n)</desc>
+  </programme>
+  <programme start="20180908071500 +0100" stop="20180908074000 +0100" channel="SIC HD">
+    <title lang="pt">Alvin E Os Esquilos T1 - Ep. 37</title>
+    <desc lang="pt">Dave Seville é um compositor de música com uma vida monótona até ao dia em que conhece Alvin, Simon e Theodore! Três esquilos muito especiais que por ironia do destino decidem ir morar em casa de Dave(n)</desc>
+  </programme>
+  <programme start="20180908074000 +0100" stop="20180908075000 +0100" channel="SIC HD">
+    <title lang="pt">KCena T1 - Ep. 15</title>
+    <desc lang="pt">Um programa que reúne um conjunto de vídeos fofinhos, de fails, de grandes feitos, assente numa lógica e estética que recriam a forma como os mais novos partilham conteúdos entre si: através das redes sociais e dos dispositivos móveis. Apresentação de Henrique Mello(n)</desc>
+  </programme>
+  <programme start="20180908075000 +0100" stop="20180908084000 +0100" channel="SIC HD">
+    <title lang="pt">Power Rangers Super Dinocharge T1 - Ep. 15</title>
+    <desc lang="pt">Power Rangers Super Dinocharge T1(n)</desc>
+  </programme>
+  <programme start="20180908084000 +0100" stop="20180908093500 +0100" channel="SIC HD">
+    <title lang="pt">Buu T1 - Ep. 17</title>
+    <desc lang="pt">Carlinhos é um típico pré-adolescente. Se o deixarem, passa o dia fechado no quarto. Um dia, ele vê a sua vida mudar quando visita ao Instituto Butantan e conhece o fantasma de seu avô. Reginaldo, que quando vivo era diretor desse mesmo instituto, revela que faz parte de uma sociedade secreta que busca produzir um soro capaz de impedir que as pessoas fiquem doentes(n)</desc>
+  </programme>
+  <programme start="20180908093500 +0100" stop="20180908102500 +0100" channel="SIC HD">
+    <title lang="pt">Uma Aventura T3 - Ep. 3</title>
+    <desc lang="pt">Teresa e Luísa são duas gémeas “iguaizinhas como duas gotas de água” - não fosse a pequena diferença que teimam em esconder-, Pedro é um excelente aluno, Chico desdenha da escola e adora praticar desporto e João é inseparável do seu pastor-alemão Faial(n)</desc>
+  </programme>
+  <programme start="20180908102500 +0100" stop="20180908111500 +0100" channel="SIC HD">
+    <title lang="pt">Uma Aventura T3 - Ep. 4</title>
+    <desc lang="pt">Teresa e Luísa são duas gémeas “iguaizinhas como duas gotas de água” - não fosse a pequena diferença que teimam em esconder-, Pedro é um excelente aluno, Chico desdenha da escola e adora praticar desporto e João é inseparável do seu pastor-alemão Faial(n)</desc>
+  </programme>
+  <programme start="20180908111500 +0100" stop="20180908121500 +0100" channel="SIC HD">
+    <title lang="pt">Nosso Mundo</title>
+    <desc lang="pt">Hoje: “Great American Thaw”. Conheça melhor o mundo em que vivemos com os extraordinários documentários da National Geographic, Explorer, BBC e muitos outros(n)</desc>
+  </programme>
+  <programme start="20180908121500 +0100" stop="20180908130000 +0100" channel="SIC HD">
+    <title lang="pt">Nosso Mundo</title>
+    <desc lang="pt">Hoje: “Planet Earth”. Conheça melhor o mundo em que vivemos com os extraordinários documentários da National Geographic, Explorer, BBC e muitos outros(n)</desc>
+  </programme>
+  <programme start="20180908130000 +0100" stop="20180908141000 +0100" channel="SIC HD">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20180908141000 +0100" stop="20180908150000 +0100" channel="SIC HD">
+    <title lang="pt">Alta Definição T1 - Ep. 433</title>
+    <desc lang="pt">Hoje: 'A Caminho dos 10 Anos!'. Espaço semanal marcado por entrevistas num registo íntimo e que promete algumas surpresas ao longo da emissão. Apresentado por Daniel Oliveira(n)</desc>
+  </programme>
+  <programme start="20180908150000 +0100" stop="20180908154000 +0100" channel="SIC HD">
+    <title lang="pt">E-Especial T1 - Ep. 528</title>
+    <desc lang="pt">Histórias inéditas, contadas e vividas pelos protagonistas das novelas e séries da SIC. Este magazine cruza a vida real com as histórias de fantasia, desvendando o mundo de sonho das produções da TV Globo e da produção nacional. Apresentado por Sofia Cerveira e Ricardo Pereira(n)</desc>
+  </programme>
+  <programme start="20180908154000 +0100" stop="20180908173500 +0100" channel="SIC HD">
+    <title lang="pt">O Último Airbender</title>
+    <desc lang="pt">Quatro nações unidas pelo destino, quando a Nação do Fogo declara uma guerra brutal contra as restantes Nações. Passa-se um século sem que se avizinhe esperança de mudar o curso desta destruição. Apanhado entre o combate e a coragem, Aang descobre que é o último Avatar com o poder de manipular os quatro elementos(n)</desc>
+  </programme>
+  <programme start="20180908173500 +0100" stop="20180908195700 +0100" channel="SIC HD">
+    <title lang="pt">A 5ª Vaga</title>
+    <desc lang="pt">Depois de ser invadido por uma espécie alienígena, o planeta Terra está à beira de uma catástrofe sem precedentes. Num ambiente de terror, onde cada um luta pela sua própria sobrevivência, Cassie, de 16 anos, tenta desesperadamente encontrar Sam, o irmão mais novo(n)</desc>
+  </programme>
+  <programme start="20180908195700 +0100" stop="20180908214500 +0100" channel="SIC HD">
+    <title lang="pt">Jornal Da Noite</title>
+    <desc lang="pt">Toda a atualidade sobre as principais notícias do dia(n)</desc>
+  </programme>
+  <programme start="20180908214500 +0100" stop="20180908225500 +0100" channel="SIC HD">
+    <title lang="pt">Paixão - Ep. 307</title>
+    <desc lang="pt">Paixão(n)</desc>
+  </programme>
+  <programme start="20180908225500 +0100" stop="20180908235500 +0100" channel="SIC HD">
+    <title lang="pt">Vidas Opostas - Ep. 132</title>
+    <desc lang="pt">Eva prepara-se para fazer chegar as provas que incriminam Álvaro pela morte de Marco mas é agredida e roubada(n)</desc>
+  </programme>
+</tv>
