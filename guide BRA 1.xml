@@ -40,7 +40,7 @@
     <category lang="pt">Drama</category>
     <icon src="http://images.mi.tv/programs/br_maridos-e-esposas-1992-1_p_m.jpg" />
   </programme>
-  <programme start="20181007065000 -0300" stop="20181007102000 -0300" channel="Max">
+  <programme start="20181007065000 -0300" stop="20181007084000 -0300" channel="Max">
     <title lang="pt">Kramer vs. Kramer (?)</title>
     <desc lang="pt">Ted Kramer é um profissional para quem o trabalho vem antes da família. Joanna, sua mulher, não pode mais suportar esta situação e sai de casa, deixando Billy, o filho do casal. Quando Ted consegue finalmente ajustar seu trabalho às novas responsabilidades, Joanna reaparece exigindo a guarda da criança. Ted não aceita e os dois vão para o tribunal lutar pela custódia do garoto(n)</desc>
     <credits>
@@ -58,20 +58,23 @@
       <value>7.8</value>
     </star-rating>
   </programme>
-  <programme start="20181007102000 -0300" stop="20181007121500 -0300" channel="Max">
-    <title lang="pt">A Ternura (?)</title>
-    <desc lang="pt">Lorenzo é um advogado aposentado que nunca sentiu afeto por sua família. Quando um casal e os filhos se mudam para a casa da frente, Lorenzo rapidamente cria um vínculo com eles, demonstrando algo que não teve com seus próprios filhos(n)</desc>
+  <programme start="20181007084000 -0300" stop="20181007121500 -0300" channel="Max">
+    <title lang="pt">Abracadabra (?)</title>
+    <desc lang="pt">Convencida de que um espírito possuiu seu marido, Carmen embarca em uma missão para trazê-lo de volta(n)</desc>
     <credits>
-      <actor>Micaela Ramazzotti</actor>
-      <actor>Elio Germano</actor>
-      <actor>Giovanna Mezzogiorno</actor>
-      <actor>Greta Scacchi</actor>
-      <actor>Renato Carpentieri</actor>
+      <actor>Maribel Verdú</actor>
+      <actor>Antonio de la Torre</actor>
+      <actor>Priscilla Delgado</actor>
+      <actor>Javier Antón</actor>
+      <actor>Bea de la Cruz</actor>
     </credits>
     <date>2017</date>
     <category lang="pt">Cine</category>
-    <category lang="pt">Drama</category>
-    <icon src="http://images.mi.tv/programs/br_a-ternura-2017_p_m.jpg" />
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_abracadabra-2017_p_m.jpg" />
+    <star-rating>
+      <value>5.8</value>
+    </star-rating>
   </programme>
   <programme start="20181007121500 -0300" stop="20181007140500 -0300" channel="Max">
     <title lang="pt">O Sentido do Fim (?)</title>
@@ -601,7 +604,7 @@
     <category lang="pt">Crime drama</category>
     <icon src="http://images.mi.tv/programs/br_o-fio-da-suspeita-1985_p_m.jpg" />
   </programme>
-  <programme start="20181007060500 -0300" stop="20181007100500 -0300" channel="Maxprime">
+  <programme start="20181007060500 -0300" stop="20181007075500 -0300" channel="Maxprime">
     <title lang="pt">As Loucas Aventuras de James West (?)</title>
     <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo, encarrega o herói da Guerra Civil James West e o militar Artemus Gordon (também Kline) de capturá-lo. A personalidade dos dois nem sempre combina, mas a dupla consegue trabalhar junto. Com a ajuda de uma mulher misteriosa, West e Gordon chegam a Loveless(n)</desc>
     <credits>
@@ -616,20 +619,23 @@
     <category lang="pt">Action</category>
     <icon src="http://images.mi.tv/programs/br_as-loucas-aventuras-de-james-west-1999_p_m.jpg" />
   </programme>
-  <programme start="20181007100500 -0300" stop="20181007120000 -0300" channel="Maxprime">
-    <title lang="pt">Em Ritmo de Fuga (?)</title>
-    <desc lang="pt">O talentoso motorista de fuga Baby confia nas batidas de sua própria trilha sonora para ser o melhor que existe. A música silencia um zumbido que o perturba desde um acidente na infância. Após conhecer a mulher dos seus sonhos, ele reconhece uma oportunidade de se livrar do estilo de vida questionável e recomeçar do zero. Obrigado a trabalhar para um chefão do crime, Baby lida com a música ao mesmo tempo em que um golpe fadado ao fracasso ameaça sua vida, seu amor e sua liberdade(n)</desc>
+  <programme start="20181007075500 -0300" stop="20181007120000 -0300" channel="Maxprime">
+    <title lang="pt">Possuídos (?)</title>
+    <desc lang="pt">Após a execução de um assassino em série, o detetive John Hobbes acredita que parte dos seus problemas terminaram, mas logo repara que pessoas na rua cantam a mesma melodia que o criminoso. Gradativamente, o policial conclui que todos estavam possuídos por Azazel, um anjo amaldiçoado que com um simples toque consegue penetrar em quase todas as pessoas. Quando John é forçado a matar um professor, que estava possuído, fica claro que ele precisa proteger as pessoas desta entidade demoníaca(n)</desc>
     <credits>
-      <actor>Ansel Elgort</actor>
-      <actor>Kevin Spacey</actor>
-      <actor>Lily James</actor>
-      <actor>Jon Bernthal</actor>
-      <actor>Jon Hamm</actor>
+      <actor>Denzel Washington</actor>
+      <actor>John Goodman</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Embeth Davidtz</actor>
+      <actor>James Gandolfini</actor>
     </credits>
-    <date>2017</date>
+    <date>1998</date>
     <category lang="pt">Cine</category>
-    <category lang="pt">Action</category>
-    <icon src="http://images.mi.tv/programs/br_em-ritmo-de-fuga-2017_p_m.jpg" />
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_possuidos-1998_p_m.jpg" />
+    <star-rating>
+      <value>7.0</value>
+    </star-rating>
   </programme>
   <programme start="20181007120000 -0300" stop="20181007135000 -0300" channel="Maxprime">
     <title lang="pt">Resident Evil 6 - O Capítulo Final (?)</title>
@@ -1748,7 +1754,7 @@
     <category lang="pt">Children</category>
     <icon src="http://images.mi.tv/programs/br_looney-tunes-de-volta-a-ac-o-2003-1_p_m.jpg" />
   </programme>
-  <programme start="20181007065500 -0300" stop="20181007101000 -0300" channel="Max Up">
+  <programme start="20181007065500 -0300" stop="20181007083000 -0300" channel="Max Up">
     <title lang="pt">As Aventuras de Robinson Crusoé (?)</title>
     <desc lang="pt">Em uma pequena e exótica ilha, Tuesday, um papagaio pensa que viver naquele paraíso é muito pouco para ele - e está amadurecendo seu desejo de conhecer o mundo. Depois de uma violenta tempestade, a ilha recebe um refugiado - Robinson Crusoe. O que começa com um jogo de interesses, já que o pássaro vê no rapaz um bilhete para fora da ilha, e o rapaz, em Tuesday, uma forma de sobreviver naquele lugar, vai se desenvolver para uma profunda relação de amizade e companheirismo(n)</desc>
     <date>2016</date>
@@ -1756,20 +1762,20 @@
     <category lang="pt">Children</category>
     <icon src="http://images.mi.tv/programs/br_as-aventuras-de-robinson-crusoe-2016_p_m.jpg" />
   </programme>
-  <programme start="20181007101000 -0300" stop="20181007120500 -0300" channel="Max Up">
-    <title lang="pt">Pure Country 2: O Dom da Música (?)</title>
-    <desc lang="pt">Três anjos concedem o dom da música para uma menina e agora ela deverá seguir uma série de regras para conseguir conservá-lo durante sua caminhada para a fama e o sucesso(n)</desc>
+  <programme start="20181007083000 -0300" stop="20181007120500 -0300" channel="Max Up">
+    <title lang="pt">A Princesinha (?)</title>
+    <desc lang="pt">Uma menina é obrigada a viver em um internato de Nova York quando seu pai vai para a guerra. Enquanto tenta se adaptar às regras do local, ela faz amizades e inimizades e usa a imaginação para mudar o mundo ao seu redor(n)</desc>
     <credits>
-      <actor>Katrina Elam</actor>
-      <actor>Dean Cain</actor>
-      <actor>Krisinda Cain</actor>
-      <actor>Ryan Cheng</actor>
-      <actor>Travis Fimmel</actor>
+      <actor>Eleanor Bron</actor>
+      <actor>Liam Cunningham</actor>
+      <actor>Liesel Matthews</actor>
+      <actor>Rusty Schwimmer</actor>
+      <actor>Arthur Malet</actor>
     </credits>
-    <date>2010</date>
+    <date>1995</date>
     <category lang="pt">Cine</category>
-    <category lang="pt">Drama</category>
-    <icon src="http://images.mi.tv/programs/br_pure-country-2-o-dom-da-musica-2010_p_m.jpg" />
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_a-princesinha-1995-1_p_m.jpg" />
   </programme>
   <programme start="20181007120500 -0300" stop="20181007133000 -0300" channel="Max Up">
     <title lang="pt">Meu Pai é Mãe de Equipe (?)</title>
