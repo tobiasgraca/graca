@@ -1,813 +1,2845 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="(BRZ) MEGA PIX HD">
-    <display-name lang="pt">(BRZ) MEGA PIX HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Max">
+    <display-name lang="pt">Max</display-name>
+    <icon src="https://mitvstatic.com/channels/br_max_m.png" />
+    <url>http://www.mi.tv2</url>
   </channel>
-  <channel id="(BRZ) Max Up">
-    <display-name lang="pt">(BRZ) Max Up</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Maxprime">
+    <display-name lang="pt">Maxprime</display-name>
+    <icon src="https://mitvstatic.com/channels/br_maxprime_m.png" />
+    <url>http://www.mi.tv2</url>
   </channel>
-  <channel id="(BRZ) Max">
-    <display-name lang="pt">(BRZ) Max</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Maxprime*e">
+    <display-name lang="pt">Maxprime*e</display-name>
+    <icon src="https://mitvstatic.com/channels/br_maxprime-e_m.png" />
+    <url>http://www.mi.tv2</url>
   </channel>
-  <channel id="(BRZ) Max Prime HD">
-    <display-name lang="pt">(BRZ) Max Prime HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Max Up">
+    <display-name lang="pt">Max Up</display-name>
+    <icon src="https://mitvstatic.com/channels/br_max-up_m.png" />
+    <url>http://www.mi.tv2</url>
   </channel>
-  <channel id="(BRZ) Max Prime*e">
-    <display-name lang="pt">(BRZ) Max Prime*e</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <icon src="https://mitvstatic.com/channels/br_megapix_m.png" />
+    <url>http://www.mi.tv2</url>
   </channel>
-  <programme start="20181007002000 -0300" stop="20181007024500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Ben-Hur</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007024500 -0300" stop="20181007050500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">A Paixão de Cristo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007050500 -0300" stop="20181007070000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Enjaulada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007070000 -0300" stop="20181007085000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Falando Grego</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007085000 -0300" stop="20181007104000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Uma Aventura Animal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007104000 -0300" stop="20181007123500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Matilda</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007123500 -0300" stop="20181007143500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Para Sempre</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007143500 -0300" stop="20181007172500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Gladiador</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007172500 -0300" stop="20181007194500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Deuses do Egito</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007194500 -0300" stop="20181007220000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Ben-Hur</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007220000 -0300" stop="20181007235500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Hércules</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007235500 -0300" stop="20181008014000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Herança de Sangue</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008014000 -0300" stop="20181008034500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Corrida Mortal 3</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008034500 -0300" stop="20181008055000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Ligadas pelo Desejo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008055000 -0300" stop="20181008080000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">O Enigma da Pirâmide</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008080000 -0300" stop="20181008095000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Os Caçadores</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008095000 -0300" stop="20181008121000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Indiana Jones e o Reino da Caveira de Cristal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008121000 -0300" stop="20181008140000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Anastasia (1997)</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008140000 -0300" stop="20181008160000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">A Família Bélier</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008160000 -0300" stop="20181008181500 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Jogos Vorazes: A Esperança</title>
-    <sub-title lang="pt">Parte 1</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008181500 -0300" stop="20181008203000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Elis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008203000 -0300" stop="20181008223000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Mulheres ao Ataque</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008223000 -0300" stop="20181009005000 -0300" channel="(BRZ) MEGA PIX HD">
-    <title lang="pt">Uma Linda Mulher</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007001500 -0300" stop="20181007004500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Sex On</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007004500 -0300" stop="20181007022500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Música, Amigos e Festa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007022500 -0300" stop="20181007043500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Segredos Imperdoáveis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007043500 -0300" stop="20181007062000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Parece que Foi Ontem</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007062000 -0300" stop="20181007075500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Looney Tunes: De Volta à Ação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007075500 -0300" stop="20181007093000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">As Aventuras de Robinson Crusoé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007093000 -0300" stop="20181007111000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Princesinha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007111000 -0300" stop="20181007130500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Pure Country 2: O Dom da Música</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007130500 -0300" stop="20181007143000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Meu Pai é Mãe de Equipe</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007143000 -0300" stop="20181007163000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Divinos Segredos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007163000 -0300" stop="20181007183500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Sua Parte Frágil</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007183500 -0300" stop="20181007201500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Linhas Cruzadas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007201500 -0300" stop="20181007220000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Amor à Distância</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007220000 -0300" stop="20181007233500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Hora da Mudança</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007233500 -0300" stop="20181008014000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Sua Parte Frágil</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008014000 -0300" stop="20181008033000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Dama Dourada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008033000 -0300" stop="20181008051000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Arthur</title>
-    <sub-title lang="pt">O Milionário Sedutor</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008051000 -0300" stop="20181008063500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Meu Pai é Mãe de Equipe</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008063500 -0300" stop="20181008082500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Colheita da Fé</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008082500 -0300" stop="20181008102000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Cidade dos Anjos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008102000 -0300" stop="20181008115500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Quando Você Viu Seu Pai pela Última Vez?</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008115500 -0300" stop="20181008134500 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">O Poder do Amor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008134500 -0300" stop="20181008154000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Inseparáveis</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008154000 -0300" stop="20181008173000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Sem Reservas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008173000 -0300" stop="20181008191000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">A Casa das Coelhinhas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008191000 -0300" stop="20181008210000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Passe Livre</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008210000 -0300" stop="20181008225000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Sem Reservas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008225000 -0300" stop="20181009004000 -0300" channel="(BRZ) Max Up">
-    <title lang="pt">Destino Incerto</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007015000 -0300" stop="20181007035500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Em Carne Viva</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007035500 -0300" stop="20181007060000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Quebrando a Banca</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007060000 -0300" stop="20181007075000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Maridos e Esposas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007075000 -0300" stop="20181007094000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Kramer Vs. Kramer</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007094000 -0300" stop="20181007112000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Abracadabra</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007112000 -0300" stop="20181007131500 -0300" channel="(BRZ) Max">
-    <title lang="pt">A Ternura</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007131500 -0300" stop="20181007150500 -0300" channel="(BRZ) Max">
-    <title lang="pt">O Sentido do Fim</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007150500 -0300" stop="20181007165500 -0300" channel="(BRZ) Max">
-    <title lang="pt">7 Minutos Depois da Meia-noite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007165500 -0300" stop="20181007191000 -0300" channel="(BRZ) Max">
-    <title lang="pt">A Promessa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007191000 -0300" stop="20181007210000 -0300" channel="(BRZ) Max">
-    <title lang="pt">O Sentido do Fim</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007210000 -0300" stop="20181007222500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Lemon</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007222500 -0300" stop="20181008003000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Amaldiçoado</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008003000 -0300" stop="20181008022000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Prova de Amor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008022000 -0300" stop="20181008041500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Assalto Sobre Trilhos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008041500 -0300" stop="20181008061000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Alice Não Mora Mais Aqui</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008061000 -0300" stop="20181008080000 -0300" channel="(BRZ) Max">
-    <title lang="pt">Memphis Belle</title>
-    <sub-title lang="pt">A Fortaleza Voadora</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008080000 -0300" stop="20181008093500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Cj7</title>
-    <sub-title lang="pt">O Brinquedo Mágico</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008093500 -0300" stop="20181008114500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Tempo de Recomeçar</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008114500 -0300" stop="20181008134000 -0300" channel="(BRZ) Max">
-    <title lang="pt">A Incrível História de Adaline</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008134000 -0300" stop="20181008155500 -0300" channel="(BRZ) Max">
-    <title lang="pt">A Promessa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008155500 -0300" stop="20181008180500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Novitiate</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008180500 -0300" stop="20181008200000 -0300" channel="(BRZ) Max">
-    <title lang="pt">A Incrível História de Adaline</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008200000 -0300" stop="20181008212500 -0300" channel="(BRZ) Max">
-    <title lang="pt">Lemon</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008212500 -0300" stop="20181008232500 -0300" channel="(BRZ) Max">
-    <title lang="pt">T2 Trainspotting</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008232500 -0300" stop="20181009013500 -0300" channel="(BRZ) Max">
-    <title lang="pt">21 Gramas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007011000 -0300" stop="20181007030500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">A Cela</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007030500 -0300" stop="20181007051000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Krull</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007051000 -0300" stop="20181007070500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">O Fio da Suspeita</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007070500 -0300" stop="20181007085500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">As Loucas Aventuras de James West</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007085500 -0300" stop="20181007110500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Possuídos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007110500 -0300" stop="20181007130000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Em Ritmo de Fuga</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007130000 -0300" stop="20181007145000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Resident Evil 6: O Capítulo Final</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007145000 -0300" stop="20181007164500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Efeito Borboleta</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007164500 -0300" stop="20181007181500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Awake</title>
-    <sub-title lang="pt">A Vida por um Fio</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007181500 -0300" stop="20181007201000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Em Ritmo de Fuga</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007201000 -0300" stop="20181007220000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Resident Evil 6: O Capítulo Final</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007220000 -0300" stop="20181008001500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Museum</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008001500 -0300" stop="20181008004500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Ces 2018: Smart World</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008004500 -0300" stop="20181008030500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">O Mago das Mentiras</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008030500 -0300" stop="20181008044500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">O Eliminador</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008044500 -0300" stop="20181008064500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Striptease</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008064500 -0300" stop="20181008084500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Conspiração Tequila</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008084500 -0300" stop="20181008104500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Starman</title>
-    <sub-title lang="pt">O Homem das Estrelas</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008104500 -0300" stop="20181008121500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">MIB</title>
-    <sub-title lang="pt">Homens de Preto 2</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008121500 -0300" stop="20181008143000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">V de Vingança</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008143000 -0300" stop="20181008160000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Kareem: Minoria de Um</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008160000 -0300" stop="20181008173000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Fronteira Virtual</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008173000 -0300" stop="20181008191000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Marcas da Violência</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008191000 -0300" stop="20181008210000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Paterno</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008210000 -0300" stop="20181008220000 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Boardwalk Empire</title>
-    <sub-title lang="pt">O Império do Contrabando</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008220000 -0300" stop="20181008234500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">O Jogador</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008234500 -0300" stop="20181009011500 -0300" channel="(BRZ) Max Prime HD">
-    <title lang="pt">Fronteira Virtual</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007000000 -0300" stop="20181007020000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Em Ritmo de Fuga</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007020000 -0300" stop="20181007034000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Tenacious D: Uma Dupla Infernal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007034000 -0300" stop="20181007041000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Especial Expo Internacional de Motos 2017</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007041000 -0300" stop="20181007062000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Superman 3</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007062000 -0300" stop="20181007082500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Krull</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007082500 -0300" stop="20181007104000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Matrix Revolutions</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007104000 -0300" stop="20181007122000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">A Torre Negra</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007122000 -0300" stop="20181007135000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Fronteira Virtual</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007135000 -0300" stop="20181007153000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Sully</title>
-    <sub-title lang="pt">O Herói do Rio Hudson</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007153000 -0300" stop="20181007173500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">No Fim do Túnel</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007173500 -0300" stop="20181007180500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Ces 2018: Smart World</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007180500 -0300" stop="20181007201500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Matrix Revolutions</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007201500 -0300" stop="20181007215500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">A Torre Negra</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007215500 -0300" stop="20181007222000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">New York Autoshow 2018</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181007222000 -0300" stop="20181008000000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Sully</title>
-    <sub-title lang="pt">O Herói do Rio Hudson</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008000000 -0300" stop="20181008020500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">No Fim do Túnel</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008020500 -0300" stop="20181008041000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">A Outra História Americana</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008041000 -0300" stop="20181008065000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Os Canhões de Navarone</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008065000 -0300" stop="20181008082500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Armados e Perigosos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008082500 -0300" stop="20181008102000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">O Fio da Suspeita</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008102000 -0300" stop="20181008120000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">O Eliminador</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008120000 -0300" stop="20181008141500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Museum</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008141500 -0300" stop="20181008161000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Nosso Fiel Traidor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008161000 -0300" stop="20181008181500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Invasão a Casa Branca</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008181500 -0300" stop="20181008195500 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">O Vendedor de Sonhos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008195500 -0300" stop="20181008221000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Museum</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181008221000 -0300" stop="20181009000000 -0300" channel="(BRZ) Max Prime*e">
-    <title lang="pt">Nosso Fiel Traidor</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
+  <programme start="20181007050000 -0300" stop="20181007065000 -0300" channel="Max">
+    <title lang="pt">Maridos e Esposas (?)</title>
+    <desc lang="pt">Gabe e sua mulher Judy ficam chocados ao saber que seus melhores amigos Sally e Jack estão se separando e começam a questionar o próprio relacionamento. Enquanto Gabe pensa em flertar com uma de suas alunas da faculdade, Sally e Jack descobrem que a vida de solteiro não é assim tão boa e pensam em reatar(n)</desc>
+    <credits>
+      <actor>Woody Allen</actor>
+      <actor>Mia Farrow</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Blythe Danner</actor>
+      <actor>Judy Davis</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_maridos-e-esposas-1992-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007065000 -0300" stop="20181007102000 -0300" channel="Max">
+    <title lang="pt">Kramer vs. Kramer (?)</title>
+    <desc lang="pt">Ted Kramer é um profissional para quem o trabalho vem antes da família. Joanna, sua mulher, não pode mais suportar esta situação e sai de casa, deixando Billy, o filho do casal. Quando Ted consegue finalmente ajustar seu trabalho às novas responsabilidades, Joanna reaparece exigindo a guarda da criança. Ted não aceita e os dois vão para o tribunal lutar pela custódia do garoto(n)</desc>
+    <credits>
+      <actor>Dustin Hoffman</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Justin Henry</actor>
+      <actor>Jane Alexander</actor>
+      <actor>Howard Duff</actor>
+    </credits>
+    <date>1979</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_kramer-vs-kramer-1979_p_m.jpg" />
+    <star-rating>
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007102000 -0300" stop="20181007121500 -0300" channel="Max">
+    <title lang="pt">A Ternura (?)</title>
+    <desc lang="pt">Lorenzo é um advogado aposentado que nunca sentiu afeto por sua família. Quando um casal e os filhos se mudam para a casa da frente, Lorenzo rapidamente cria um vínculo com eles, demonstrando algo que não teve com seus próprios filhos(n)</desc>
+    <credits>
+      <actor>Micaela Ramazzotti</actor>
+      <actor>Elio Germano</actor>
+      <actor>Giovanna Mezzogiorno</actor>
+      <actor>Greta Scacchi</actor>
+      <actor>Renato Carpentieri</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-ternura-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007121500 -0300" stop="20181007140500 -0300" channel="Max">
+    <title lang="pt">O Sentido do Fim (?)</title>
+    <desc lang="pt">Um homem atormentado por seu passado encontra um fato que o faz repensar sua vida. Tony tenta enfrentar a verdade e assumir a responsabilidade pelas ações que tomou há muito tempo(n)</desc>
+    <credits>
+      <actor>Jim Broadbent</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Harriet Walter</actor>
+      <actor>Michelle Dockery</actor>
+      <actor>Matthew Goode</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-sentido-do-fim-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007140500 -0300" stop="20181007155500 -0300" channel="Max">
+    <title lang="pt">Sete Minutos Depois da Meia-Noite (?)</title>
+    <desc lang="pt">O garoto Conor tem muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera, e ele é maltratado na escola pelos colegas. No entanto, todas as noites Conor tem o mesmo sonho, com uma gigantesca árvore que decide contar histórias para ele, em troca de escutar as histórias do garoto. Embora as conversas com a árvore tenham consequências negativas na vida real, elas ajudam Conor a escapar das dificuldades por meio do mundo da fantasia(n)</desc>
+    <credits>
+      <actor>Lewis MacDougall</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Ben Moor</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://images.mi.tv/programs/br_sete-minutos-depois-da-meia-noite-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007155500 -0300" stop="20181007181000 -0300" channel="Max">
+    <title lang="pt">A Promessa (?)</title>
+    <desc lang="pt">Um estudante de medicina armênio e um fotojornalista norte-americano competem pelo amor da mesma mulher enquanto o Império Otomano desmorona destruído pela guerra(n)</desc>
+    <credits>
+      <actor>Oscar Isaac</actor>
+      <actor>Charlotte Le Bon</actor>
+      <actor>Christian Bale</actor>
+      <actor>Shohreh Aghdashloo</actor>
+      <actor>Marwan Kenzari</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Historical drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-promessa-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007181000 -0300" stop="20181007200000 -0300" channel="Max">
+    <title lang="pt">O Sentido do Fim (?)</title>
+    <desc lang="pt">Um homem atormentado por seu passado encontra um fato que o faz repensar sua vida. Tony tenta enfrentar a verdade e assumir a responsabilidade pelas ações que tomou há muito tempo(n)</desc>
+    <credits>
+      <actor>Jim Broadbent</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Harriet Walter</actor>
+      <actor>Michelle Dockery</actor>
+      <actor>Matthew Goode</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-sentido-do-fim-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007200000 -0300" stop="20181007212500 -0300" channel="Max">
+    <title lang="pt">Lemon (?)</title>
+    <desc lang="pt">Isaac observa sua vida sair dos trilhos depois que sua namorada cega o deixa. Enquanto afunda em miséria, ele dirige a peça "A Gaivota" de Tchekhov, assiste ao Seder Pascal do inferno e tenta atrair uma nova paixão(n)</desc>
+    <credits>
+      <actor>Brett Gelman</actor>
+      <actor>Judy Greer</actor>
+      <actor>Michael Cera</actor>
+      <actor>Nia Long</actor>
+      <actor>Shiri Appleby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_lemon-2017_p_m.jpg" />
+    <star-rating>
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007212500 -0300" stop="20181007233000 -0300" channel="Max">
+    <title lang="pt">Amaldiçoado (?)</title>
+    <desc lang="pt">Um jovem de 26 anos de idade descobre, um dia, quando acorda, que sua namorada foi estuprada e assassinada. Ele é imediatamente apontado como principal suspeito, o que o obriga a partir em busca do verdadeiro responsável. Sua arma será o par de chifres que crescem em sua cabeça, e força as pessoas que lhe encontram a revelarem seus segredos(n)</desc>
+    <credits>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Juno Temple</actor>
+      <actor>Max Minghella</actor>
+      <actor>Joe Anderson</actor>
+      <actor>Kelli Garner</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://images.mi.tv/programs/br_amaldicoado-2013_p_m.jpg" />
+  </programme>
+  <programme start="20181007233000 -0300" stop="20181008012000 -0300" channel="Max">
+    <title lang="pt">Prova de Amor (?)</title>
+    <desc lang="pt">Paul é um sedutor que está com uma mulher diferente a cada dia. Quando Noel, a irmã mais jovem e virgem de seu melhor amigo Tip, volta para casa crescida e linda, Paul se apaixona por ela. Mas por causa de seu passado sórdido, Tip suspeita das intenções do amigo. Para que seu relacionamento com Noel funcione, Paul terá que provar à família e aos amigos da jovem que ele pode ser um homem digno de seu amor(n)</desc>
+    <credits>
+      <actor>Paul Schneider</actor>
+      <actor>Zooey Deschanel</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Maurice Compte</actor>
+      <actor>Danny McBride</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romance</category>
+    <icon src="http://images.mi.tv/programs/br_prova-de-amor-2003_p_m.jpg" />
+  </programme>
+  <programme start="20181008012000 -0300" stop="20181008031500 -0300" channel="Max">
+    <title lang="pt">Assalto Sobre Trilhos (?)</title>
+    <desc lang="pt">John e Charlie são irmãos adotivos que trabalham como policiais de trânsito. No momento, eles agem disfarçados em pleno metrô de Nova York e estão apaixonados por Grace Santiago, que faz com que a rivalidade entre eles fique ainda maior. Após perder o emprego e passar por uma série de problemas, Charlie resolve elaborar um plano para roubar o trem que guarda todo o dinheiro ganho nas bilheterias do metrô e cabe a John impedir que Charlie leva o plano adiante ou se juntar a ele na empreitada(n)</desc>
+    <credits>
+      <actor>Wesley Snipes</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Robert Blake</actor>
+      <actor>Chris Cooper</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_assalto-sobre-trilhos-1995-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008031500 -0300" stop="20181008051000 -0300" channel="Max">
+    <title lang="pt">Alice Não Mora Mais Aqui (?)</title>
+    <desc lang="pt">Depois de perder o marido caminhoneiro num acidente, Alice começa a trabalhar como cantora para sustentar o filho Tommy, mas acaba se envolvendo com um homem casado e agressivo e precisará ir embora da cidade se quiser refazer sua vida(n)</desc>
+    <credits>
+      <actor>Ellen Burstyn</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Billy Bush</actor>
+      <actor>Diane Ladd</actor>
+      <actor>Lelia Goldoni</actor>
+    </credits>
+    <date>1974</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_alice-n-o-mora-mais-aqui-1974_p_m.jpg" />
+    <star-rating>
+      <value>7.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008051000 -0300" stop="20181008051000 -0300" channel="Max">
+    <title lang="pt">Memphis Belle - A Fortaleza Voadora (?)</title>
+    <desc lang="pt">Em uma base militar americana na Inglaterra, os tripulantes do B-17 Memphis Belle se preparam para a última missão em território alemão. O capitão Dennis Dearborn sabe que a missão é perigosa, mas está sendo pressionado pelo relações públicas do Exército para conseguir uma vitória decisiva para os aliados(n)</desc>
+    <credits>
+      <actor>Matthew Modine</actor>
+      <actor>Eric Stoltz</actor>
+      <actor>Tate Donovan</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Billy Zane</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">War</category>
+    <icon src="http://images.mi.tv/programs/br_memphis-belle-a-fortaleza-voadora-1990-2_p_m.jpg" />
+  </programme>
+  <programme start="20181008051000 -0300" stop="20181008070000 -0300" channel="Max">
+    <title lang="pt">Memphis Belle - A Fortaleza Voadora (?)</title>
+    <desc lang="pt">Em uma base militar americana na Inglaterra, os tripulantes do B-17 Memphis Belle se preparam para a última missão em território alemão. O capitão Dennis Dearborn sabe que a missão é perigosa, mas está sendo pressionado pelo relações públicas do Exército para conseguir uma vitória decisiva para os aliados(n)</desc>
+    <credits>
+      <actor>Matthew Modine</actor>
+      <actor>Eric Stoltz</actor>
+      <actor>Tate Donovan</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Billy Zane</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">War</category>
+    <icon src="http://images.mi.tv/programs/br_memphis-belle-a-fortaleza-voadora-1990-2_p_m.jpg" />
+  </programme>
+  <programme start="20181008070000 -0300" stop="20181008083500 -0300" channel="Max">
+    <title lang="pt">CJ7 - O Brinquedo Mágico (?)</title>
+    <desc lang="pt">Ti é um pai solteiro que trabalha incansavelmente para manter seu filho Dicky matriculado em uma escola particular. Dicky se aplica nos estudos, mas suas roupas simples trazem o desprezo de seus colegas ricos. Como não é possível comprar um brinquedo caro para seu filho, Ti encontra uma bola brilhante em um ferro-velho e dá a ele. Logo, a bola se transforma em o novo melhor amigo de Dicky, um alienígena(n)</desc>
+    <credits>
+      <actor>Stephen Chow</actor>
+      <actor>Xu Jiao</actor>
+      <actor>Kitty Zhang</actor>
+      <actor>Lee Ching</actor>
+      <actor>Tze Chung Lam</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_cj7-o-brinquedo-magico-2008-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008083500 -0300" stop="20181008104500 -0300" channel="Max">
+    <title lang="pt">Tempo de Recomeçar (?)</title>
+    <desc lang="pt">Homem diagnosticado com câncer em estado terminal tenta se reconciliar com filho problemático. Ele chama o rapaz para passar o verão com ele e ajudá-lo a construir a casa dos seus sonhos, e o trabalho reconstrói o relacionamento entre pai e filho(n)</desc>
+    <credits>
+      <actor>Kevin Kline</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Hayden Christensen</actor>
+      <actor>Jena Malone</actor>
+      <actor>Mary Steenburgen</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_tempo-de-recomecar-2001_p_m.jpg" />
+    <star-rating>
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008104500 -0300" stop="20181008124000 -0300" channel="Max">
+    <title lang="pt">A Incrível História de Adaline (?)</title>
+    <desc lang="pt">Adaline Bowman nasceu na virada do século 20 e levava uma vida normal até sofrer um grave acidente de carro. Desde então, ela milagrosamente parou de envelhecer e acabou se tornando um ser imortal com eterna aparência de 29 anos. Adaline vive uma existência solitária, nunca se permitindo criar laços com ninguém para não ter seu segredo revelado. Mas tudo muda quando ela conhece o jovem e belo Ellis Jones, um filantropo por quem pode valer a pena arriscar sua imortalidade(n)</desc>
+    <credits>
+      <actor>Blake Lively</actor>
+      <actor>Michiel Huisman</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Ellen Burstyn</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romance</category>
+    <icon src="http://images.mi.tv/programs/br_a-incrivel-historia-de-adaline-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181008124000 -0300" stop="20181008145500 -0300" channel="Max">
+    <title lang="pt">A Promessa (?)</title>
+    <desc lang="pt">Um estudante de medicina armênio e um fotojornalista norte-americano competem pelo amor da mesma mulher enquanto o Império Otomano desmorona destruído pela guerra(n)</desc>
+    <credits>
+      <actor>Oscar Isaac</actor>
+      <actor>Charlotte Le Bon</actor>
+      <actor>Christian Bale</actor>
+      <actor>Shohreh Aghdashloo</actor>
+      <actor>Marwan Kenzari</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Historical drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-promessa-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008145500 -0300" stop="20181008170500 -0300" channel="Max">
+    <title lang="pt">Novitiate (?)</title>
+    <desc lang="pt">No início da década de 1960, à altura do Concílio Vaticano II, a jovem Cathleen decide se tornar freira, para espanto de sua mãe agnóstica. No convento, ela se vê em um ambiente dominado pela devoção e pelas estritas regras da madre superiora(n)</desc>
+    <credits>
+      <actor>Margaret Qualley</actor>
+      <actor>Melissa Leo</actor>
+      <actor>Julianne Nicholson</actor>
+      <actor>Dianna Agron</actor>
+      <actor>Morgan Saylor</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_novitiate-2017_p_m.jpg" />
+    <star-rating>
+      <value>6.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008170500 -0300" stop="20181008190000 -0300" channel="Max">
+    <title lang="pt">A Incrível História de Adaline (?)</title>
+    <desc lang="pt">Adaline Bowman nasceu na virada do século 20 e levava uma vida normal até sofrer um grave acidente de carro. Desde então, ela milagrosamente parou de envelhecer e acabou se tornando um ser imortal com eterna aparência de 29 anos. Adaline vive uma existência solitária, nunca se permitindo criar laços com ninguém para não ter seu segredo revelado. Mas tudo muda quando ela conhece o jovem e belo Ellis Jones, um filantropo por quem pode valer a pena arriscar sua imortalidade(n)</desc>
+    <credits>
+      <actor>Blake Lively</actor>
+      <actor>Michiel Huisman</actor>
+      <actor>Kathy Baker</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Ellen Burstyn</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romance</category>
+    <icon src="http://images.mi.tv/programs/br_a-incrivel-historia-de-adaline-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181008190000 -0300" stop="20181008202500 -0300" channel="Max">
+    <title lang="pt">Lemon (?)</title>
+    <desc lang="pt">Isaac observa sua vida sair dos trilhos depois que sua namorada cega o deixa. Enquanto afunda em miséria, ele dirige a peça "A Gaivota" de Tchekhov, assiste ao Seder Pascal do inferno e tenta atrair uma nova paixão(n)</desc>
+    <credits>
+      <actor>Brett Gelman</actor>
+      <actor>Judy Greer</actor>
+      <actor>Michael Cera</actor>
+      <actor>Nia Long</actor>
+      <actor>Shiri Appleby</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_lemon-2017_p_m.jpg" />
+    <star-rating>
+      <value>4.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008202500 -0300" stop="20181008222500 -0300" channel="Max">
+    <title lang="pt">T2 Trainspotting (?)</title>
+    <desc lang="pt">Primeiro foi a oportunidade, depois a traição. Vinte anos se passaram e muita coisa mudou, mas outras tantas não. Mark Renton volta para o único lugar que ele consegue chamar de casa. Spud, Sick Boy e Begbie estão esperando por ele(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Jonny Miller</actor>
+      <actor>Robert Carlyle</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Anjela Nedyalkova</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_t2-trainspotting-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008222500 -0300" stop="20181009003500 -0300" channel="Max">
+    <title lang="pt">21 Gramas (?)</title>
+    <desc lang="pt">Paul Rivers é um professor que lida com uma doença terminal, mas sua vida muda completamente após um acidente de carro que envolve um ex-presidiário e o marido de Cristina Peck, uma mulher que perde a família no incidente(n)</desc>
+    <credits>
+      <actor>Sean Penn</actor>
+      <actor>Benicio Del Toro</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Charlotte Gainsbourg</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_21-gramas-2003-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009003500 -0300" stop="20181009022000 -0300" channel="Max">
+    <title lang="pt">Garotos de Programa (?)</title>
+    <desc lang="pt">Dois jovens vivem nas ruas de Portland no meio das drogas e da prostituição. Scott só quer envergonhar sua família. Mike sofre de narcolepsia e é apaixonado por Scott. Juntos eles viajam para a Itália em busca da mãe perdida de Mike(n)</desc>
+    <credits>
+      <actor>River Phoenix</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>James Russo</actor>
+      <actor>William Richert</actor>
+      <actor>Rodney Harvey</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_garotos-de-programa-1991-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009022000 -0300" stop="20181009041000 -0300" channel="Max">
+    <title lang="pt">O Ataque à Maratona de Boston (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">Acompanhe a dramática história do ataque terrorista na maratona de Boston em abril de 2013, por meio das experiências de pessoas cujas vidas foram afetadas. Vídeos de câmeras de segurança, entrevistas exclusivas com sobreviventes e familiares, com oficiais, investigadores e repórteres do The Boston Globe, que ganharam o prêmio Pulitzer pela cobertura do ataque(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_o-ataque-a-maratona-de-boston_p_m.jpg" />
+  </programme>
+  <programme start="20181009041000 -0300" stop="20181009052500 -0300" channel="Max">
+    <title lang="pt">VICE Special Report: A House Divided (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">O fundador de VICE, Shane Smith, entrevista o Presidente Obama e outros políticos de Washington para dar um olhar pós-eleitoral a algumas das rivalidades partidárias que marcaram seu período presidencial e como estas influenciaram o clima político(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_vice-special-report-a-house-divided_p_m.jpg" />
+  </programme>
+  <programme start="20181009052500 -0300" stop="20181009052500 -0300" channel="Max">
+    <title lang="pt">Jardins de Pedra (?)</title>
+    <desc lang="pt">Durante a Guerra do Vietnã, em Washington, coronel que cuida do cemitério militar conclui que a guerra é um grande erro. Enquanto namora uma jornalista pacifista, ele tenta dissuadir um recruta empolgado com a ideia de ir para o combate(n)</desc>
+    <credits>
+      <actor>James Caan</actor>
+      <actor>Anjelica Huston</actor>
+      <actor>James Jones</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Dean Stockwell</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_jardins-de-pedra-1987_p_m.jpg" />
+  </programme>
+  <programme start="20181009052500 -0300" stop="20181009072000 -0300" channel="Max">
+    <title lang="pt">Jardins de Pedra (?)</title>
+    <desc lang="pt">Durante a Guerra do Vietnã, em Washington, coronel que cuida do cemitério militar conclui que a guerra é um grande erro. Enquanto namora uma jornalista pacifista, ele tenta dissuadir um recruta empolgado com a ideia de ir para o combate(n)</desc>
+    <credits>
+      <actor>James Caan</actor>
+      <actor>Anjelica Huston</actor>
+      <actor>James Jones</actor>
+      <actor>D.B. Sweeney</actor>
+      <actor>Dean Stockwell</actor>
+    </credits>
+    <date>1987</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_jardins-de-pedra-1987_p_m.jpg" />
+  </programme>
+  <programme start="20181009072000 -0300" stop="20181009110000 -0300" channel="Max">
+    <title lang="pt">Deuses e Generais (?)</title>
+    <desc lang="pt">Thomas Jackson é um general cuidadoso que, com um amigo também militar, planeja estratégias para administrar as atividades de seus homens durante a Guerra Civil Americana, por entender que o cotidiano da guerra é tão importante quanto as batalhas(n)</desc>
+    <credits>
+      <actor>Jeff Daniels</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Mira Sorvino</actor>
+      <actor>Kevin Conway</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">War</category>
+    <icon src="http://images.mi.tv/programs/br_deuses-e-generais-2003_p_m.jpg" />
+    <star-rating>
+      <value>6.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009110000 -0300" stop="20181009125000 -0300" channel="Max">
+    <title lang="pt">Certas Mulheres (?)</title>
+    <desc lang="pt">Entre as vidas da advogada Laura Wells, Gina Lewis e da recém-formada Beth Travis há pouca coisa em comum além do fato de que elas moram em Livingston, no estado de Montana. No entanto, as circunstâncias de suas vidas farão com que suas histórias se entrelacem de uma maneira íntima e profundao(n)</desc>
+    <credits>
+      <actor>Kristen Stewart</actor>
+      <actor>Laura Dern</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Rene Auberjonois</actor>
+      <actor>Jared Harris</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_certas-mulheres-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009125000 -0300" stop="20181009143500 -0300" channel="Max">
+    <title lang="pt">Jackie (?)</title>
+    <desc lang="pt">Jacqueline Kennedy, inesperadamente viúva, lida com o trauma nos quatro dias posteriores ao assassinato de seu marido, o então presidente dos Estados Unidos John F. Kennedy(n)</desc>
+    <credits>
+      <actor>Natalie Portman</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Greta Gerwig</actor>
+      <actor>Billy Crudup</actor>
+      <actor>John Hurt</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Historical drama</category>
+    <icon src="http://images.mi.tv/programs/br_jackie-2016_p_m.jpg" />
+    <star-rating>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009143500 -0300" stop="20181009162000 -0300" channel="Max">
+    <title lang="pt">Os Largados (?)</title>
+    <desc lang="pt">Giorgio é um famoso jornalista que, junto com sua ex-esposa, cuida de seu filho adolescente, Tito. Este último tem uma relação conflituosa com o pai e prefere passar o tempo com os amigos, mas tudo muda quando ele conhece Alice(n)</desc>
+    <credits>
+      <actor>Claudio Bisio</actor>
+      <actor>Cochi Ponzoni</actor>
+      <actor>Antonia Truppo</actor>
+      <actor>Gigio Alberti</actor>
+      <actor>Barbara Ronchi</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_os-largados-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009162000 -0300" stop="20181009181000 -0300" channel="Max">
+    <title lang="pt">Certas Mulheres (?)</title>
+    <desc lang="pt">Entre as vidas da advogada Laura Wells, Gina Lewis e da recém-formada Beth Travis há pouca coisa em comum além do fato de que elas moram em Livingston, no estado de Montana. No entanto, as circunstâncias de suas vidas farão com que suas histórias se entrelacem de uma maneira íntima e profundao(n)</desc>
+    <credits>
+      <actor>Kristen Stewart</actor>
+      <actor>Laura Dern</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Rene Auberjonois</actor>
+      <actor>Jared Harris</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_certas-mulheres-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009181000 -0300" stop="20181009195500 -0300" channel="Max">
+    <title lang="pt">Jackie (?)</title>
+    <desc lang="pt">Jacqueline Kennedy, inesperadamente viúva, lida com o trauma nos quatro dias posteriores ao assassinato de seu marido, o então presidente dos Estados Unidos John F. Kennedy(n)</desc>
+    <credits>
+      <actor>Natalie Portman</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Greta Gerwig</actor>
+      <actor>Billy Crudup</actor>
+      <actor>John Hurt</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Historical drama</category>
+    <icon src="http://images.mi.tv/programs/br_jackie-2016_p_m.jpg" />
+    <star-rating>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009195500 -0300" stop="20181009210000 -0300" channel="Max">
+    <title lang="pt">The Casual Vacancy (?)</title>
+    <sub-title lang="pt">Temporada 1 Episódio 2 - Parte 2</sub-title>
+    <desc lang="pt">Durante o funeral de Barry, os candidatos ao seu posto têm seus segredos revelados; Krystal relembra um agradável momento com Barry; Gaia mostra interesse por Andrew(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_the-casual-vacancy-s01e02-parte-2_p_m.jpg" />
+  </programme>
+  <programme start="20181009210000 -0300" stop="20181009220500 -0300" channel="Max">
+    <title lang="pt">The Casual Vacancy (?)</title>
+    <sub-title lang="pt">Temporada 1 Episódio 3 - Parte 3</sub-title>
+    <desc lang="pt">Após um resultado bastante acirrado, o assunto da Sweetlove House é decidido rapidamente; Arf depara-se com cena comprometedora; Terri cede à tentação; Krystal busca refúgio, causando outra tragédia à cidade(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_the-casual-vacancy-s01e03-parte-3_p_m.jpg" />
+  </programme>
+  <programme start="20181009220500 -0300" stop="20181009235500 -0300" channel="Max">
+    <title lang="pt">Os Largados (?)</title>
+    <desc lang="pt">Giorgio é um famoso jornalista que, junto com sua ex-esposa, cuida de seu filho adolescente, Tito. Este último tem uma relação conflituosa com o pai e prefere passar o tempo com os amigos, mas tudo muda quando ele conhece Alice(n)</desc>
+    <credits>
+      <actor>Claudio Bisio</actor>
+      <actor>Cochi Ponzoni</actor>
+      <actor>Antonia Truppo</actor>
+      <actor>Gigio Alberti</actor>
+      <actor>Barbara Ronchi</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_os-largados-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009235500 -0300" stop="20181010012000 -0300" channel="Max">
+    <title lang="pt">Proibido Homens (?)</title>
+    <desc lang="pt">Enquanto trabalha como governanta para uma família de mulheres, Andrew encontrou-se no centro de uma batalha para impedir que os homens sejam extintos. O filme levanta a questão de como seria o mundo se as mulheres estivessem no comando(n)</desc>
+    <credits>
+      <actor>Patrick Gilmore</actor>
+      <actor>Kristine Cofsky</actor>
+      <actor>Rekha Sharma</actor>
+      <actor>Tara Pratt</actor>
+      <actor>Cameron McDonald</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_proibido-homens-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181007041000 -0300" stop="20181007060500 -0300" channel="Maxprime">
+    <title lang="pt">O Fio da Suspeita (?)</title>
+    <desc lang="pt">A advogada Teddy Barnes relutantemente aceita o caso do editor Jack Forrester, que está sendo acusado de matar sua esposa por dinheiro. Enquanto o julgamento se desenvolve, ela continua imaginando, até o último instante, se Jack é um homem inocente ou um astuto criminoso manipulador(n)</desc>
+    <credits>
+      <actor>Glenn Close</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Peter Coyote</actor>
+      <actor>Robert Loggia</actor>
+      <actor>John Dehner</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-fio-da-suspeita-1985_p_m.jpg" />
+  </programme>
+  <programme start="20181007060500 -0300" stop="20181007100500 -0300" channel="Maxprime">
+    <title lang="pt">As Loucas Aventuras de James West (?)</title>
+    <desc lang="pt">Quando o presidente Ulysses S. Grant fica sabendo que o diabólico inventor Arliss Loveless planeja assassiná-lo, encarrega o herói da Guerra Civil James West e o militar Artemus Gordon (também Kline) de capturá-lo. A personalidade dos dois nem sempre combina, mas a dupla consegue trabalhar junto. Com a ajuda de uma mulher misteriosa, West e Gordon chegam a Loveless(n)</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Kenneth Branagh</actor>
+      <actor>Salma Hayek</actor>
+      <actor>Ted Levine</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_as-loucas-aventuras-de-james-west-1999_p_m.jpg" />
+  </programme>
+  <programme start="20181007100500 -0300" stop="20181007120000 -0300" channel="Maxprime">
+    <title lang="pt">Em Ritmo de Fuga (?)</title>
+    <desc lang="pt">O talentoso motorista de fuga Baby confia nas batidas de sua própria trilha sonora para ser o melhor que existe. A música silencia um zumbido que o perturba desde um acidente na infância. Após conhecer a mulher dos seus sonhos, ele reconhece uma oportunidade de se livrar do estilo de vida questionável e recomeçar do zero. Obrigado a trabalhar para um chefão do crime, Baby lida com a música ao mesmo tempo em que um golpe fadado ao fracasso ameaça sua vida, seu amor e sua liberdade(n)</desc>
+    <credits>
+      <actor>Ansel Elgort</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Lily James</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Jon Hamm</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_em-ritmo-de-fuga-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007120000 -0300" stop="20181007135000 -0300" channel="Maxprime">
+    <title lang="pt">Resident Evil 6 - O Capítulo Final (?)</title>
+    <desc lang="pt">Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Iain Glen</actor>
+      <actor>Ali Larter</actor>
+      <actor>Shawn Roberts</actor>
+      <actor>Eoin Macken</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Horror</category>
+    <icon src="http://images.mi.tv/programs/br_resident-evil-6-o-capitulo-final-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007135000 -0300" stop="20181007154500 -0300" channel="Maxprime">
+    <title lang="pt">Efeito Borboleta (?)</title>
+    <desc lang="pt">O estudante universitário Evan Treborn está aflito com dores de cabeça tão fortes que frequentemente desmaia. Enquanto está inconsciente, Evan pode viajar de volta no tempo para momentos de dificuldades na infância. Ele também pode alterar o passado para os amigos, como Kayleigh, que foi molestada pelo pai. Porém ao mudar o passado, ele pode alterar o presente, o que leva Evan a se encontrar em um pesadelo de realidades alternativas, incluindo uma onde ele está preso(n)</desc>
+    <credits>
+      <actor>Ashton Kutcher</actor>
+      <actor>Amy Smart</actor>
+      <actor>Eric Stoltz</actor>
+      <actor>William Scott</actor>
+      <actor>Elden Henson</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_efeito-borboleta-2004_p_m.jpg" />
+    <star-rating>
+      <value>7.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007154500 -0300" stop="20181007171500 -0300" channel="Maxprime">
+    <title lang="pt">Awake - A Vida por um Fio (?)</title>
+    <desc lang="pt">Enquanto é operado, um jovem desperta, porém, totalmente paralisado. Consequentemente, não consegue se comunicar com os médicos para alertá-los sobre sua condição. Enquanto isso, sua esposa luta contra seus próprios problemas(n)</desc>
+    <credits>
+      <actor>Hayden Christensen</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Lena Olin</actor>
+      <actor>Sam Robards</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_awake-a-vida-por-um-fio-2007-2_p_m.jpg" />
+  </programme>
+  <programme start="20181007171500 -0300" stop="20181007191000 -0300" channel="Maxprime">
+    <title lang="pt">Em Ritmo de Fuga (?)</title>
+    <desc lang="pt">O talentoso motorista de fuga Baby confia nas batidas de sua própria trilha sonora para ser o melhor que existe. A música silencia um zumbido que o perturba desde um acidente na infância. Após conhecer a mulher dos seus sonhos, ele reconhece uma oportunidade de se livrar do estilo de vida questionável e recomeçar do zero. Obrigado a trabalhar para um chefão do crime, Baby lida com a música ao mesmo tempo em que um golpe fadado ao fracasso ameaça sua vida, seu amor e sua liberdade(n)</desc>
+    <credits>
+      <actor>Ansel Elgort</actor>
+      <actor>Kevin Spacey</actor>
+      <actor>Lily James</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Jon Hamm</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_em-ritmo-de-fuga-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007191000 -0300" stop="20181007210000 -0300" channel="Maxprime">
+    <title lang="pt">Resident Evil 6 - O Capítulo Final (?)</title>
+    <desc lang="pt">Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Iain Glen</actor>
+      <actor>Ali Larter</actor>
+      <actor>Shawn Roberts</actor>
+      <actor>Eoin Macken</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Horror</category>
+    <icon src="http://images.mi.tv/programs/br_resident-evil-6-o-capitulo-final-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007210000 -0300" stop="20181007231500 -0300" channel="Maxprime">
+    <title lang="pt">Museum (?)</title>
+    <desc lang="pt">O recém-divorciado e triste detetive Hisashi Sawamura e seu ingênuo parceiro novato, Nishino, procuram por um serial killer de Tóquio que usa um traje de sapo gigante de desenho animado(n)</desc>
+    <credits>
+      <actor>Shun Oguri</actor>
+      <actor>Machiko Ono</actor>
+      <actor>Shûhei Nomura</actor>
+      <actor>Tomomi Maruyama</actor>
+      <actor>Tomoko Tabata</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_museum-2016_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007231500 -0300" stop="20181007234500 -0300" channel="Maxprime">
+    <title lang="pt">CES 2018: Smart World (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">A famosa Consumer Electronics Show (CES) chegou mais uma vez ao Centro de Convenções de Las Vegas para mostrar que 2018 tem muita tecnologia a oferecer. Novos aparelhos e lançamentos causaram euforia ao público(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_ces-2018-smart-world-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007234500 -0300" stop="20181008020500 -0300" channel="Maxprime">
+    <title lang="pt">O Mago das Mentiras (?)</title>
+    <desc lang="pt">Um olhar para o corretor de ações e consultor financeiro Bernie Madoff em 2008, ano em que foi preso por cometer talvez a maior fraude financeira na história dos Estados Unidos(n)</desc>
+    <credits>
+      <actor>Robert De Niro</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Alessandro Nivola</actor>
+      <actor>Nathan Darrow</actor>
+      <actor>Kristen Connolly</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Docudrama</category>
+    <icon src="http://images.mi.tv/programs/br_o-mago-das-mentiras-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008020500 -0300" stop="20181008034500 -0300" channel="Maxprime">
+    <title lang="pt">O Eliminador (?)</title>
+    <desc lang="pt">Jason Price é um ex-agente do governo que ganha dinheiro ajudando pessoas a desaparecer por meio de um programa que ele criou. Quando seu amigo de infância Sonny e o gângster Paul Elker chegam pedindo ajuda, as coisas começam a se complicar. Alguém se infiltrou na rede de Price e seus clientes estão sendo mortos(n)</desc>
+    <credits>
+      <actor>Dolph Lundgren</actor>
+      <actor>Maxim Roy</actor>
+      <actor>Brigitte Paquette</actor>
+      <actor>Christian Paul</actor>
+      <actor>Patrick Kerton</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_o-eliminador-2001-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008034500 -0300" stop="20181008054500 -0300" channel="Maxprime">
+    <title lang="pt">Striptease (?)</title>
+    <desc lang="pt">Uma mãe solteira aceita um emprego como stripper em uma casa noturna de Miami tentando conseguir dinheiro para recuperar a custódia de sua filha. Logo, ela se vê envolvida nas vidas dos empregados e clientes do estabelecimento, e um congressista conservador desprezível começa a persegui-la(n)</desc>
+    <credits>
+      <actor>Demi Moore</actor>
+      <actor>Armand Assante</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Burt Reynolds</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_striptease-1996_p_m.jpg" />
+    <star-rating>
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008054500 -0300" stop="20181008054500 -0300" channel="Maxprime">
+    <title lang="pt">Conspiração Tequila (?)</title>
+    <desc lang="pt">Dois velhos amigos cresceram em lados opostos da lei. Um é ex-traficante, enquanto o outro, um conhecido policial. Os destinos dos dois voltam a se cruzar quando ambos se apaixonam pela mesma mulher, dando início a um perigoso triângulo amoroso(n)</desc>
+    <credits>
+      <actor>Mel Gibson</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Raul Julia</actor>
+      <actor>J.T. Walsh</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_conspirac-o-tequila-1988_p_m.jpg" />
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008054500 -0300" stop="20181008074500 -0300" channel="Maxprime">
+    <title lang="pt">Conspiração Tequila (?)</title>
+    <desc lang="pt">Dois velhos amigos cresceram em lados opostos da lei. Um é ex-traficante, enquanto o outro, um conhecido policial. Os destinos dos dois voltam a se cruzar quando ambos se apaixonam pela mesma mulher, dando início a um perigoso triângulo amoroso(n)</desc>
+    <credits>
+      <actor>Mel Gibson</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Raul Julia</actor>
+      <actor>J.T. Walsh</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_conspirac-o-tequila-1988_p_m.jpg" />
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008074500 -0300" stop="20181008094500 -0300" channel="Maxprime">
+    <title lang="pt">Starman - O Homem das Estrelas (?)</title>
+    <desc lang="pt">A nave de um ser espacial cai na Terra e, para não ser preso pela autoridades, ele assume a forma de um homem recém-falecido. Após o choque inicial, a viúva se afeiçoa ao "homem das estrelas" e o ajuda a tentar retornar ao seu planeta(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Karen Allen</actor>
+      <actor>Charles Smith</actor>
+      <actor>Richard Jaeckel</actor>
+      <actor>Robert Phalen</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://images.mi.tv/programs/br_starman-o-homem-das-estrelas-1984_p_m.jpg" />
+  </programme>
+  <programme start="20181008094500 -0300" stop="20181008111500 -0300" channel="Maxprime">
+    <title lang="pt">MIB - Homens de Preto 2 (?)</title>
+    <desc lang="pt">Kay e Jay se unem para proporcionar uma melhor linha de defesa contra uma sedutora e desafiadora missão para os MIB: proteger a Terra. Enquanto investigam um crime, Jay descobre um enredo arquitetado por Serleena, uma Kylothian monstro que se disfarça como uma modelo terráquea. Quando Serleena se apossa do prédio dos MIB, só uma pessoa pode ajudar Jay, seu ex parceiro Kay(n)</desc>
+    <credits>
+      <actor>Tommy Jones</actor>
+      <actor>Will Smith</actor>
+      <actor>Rip Torn</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_mib-homens-de-preto-2-2002-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008111500 -0300" stop="20181008133000 -0300" channel="Maxprime">
+    <title lang="pt">V de Vingança (?)</title>
+    <desc lang="pt">Após uma guerra mundial, a Inglaterra é ocupada por um governo fascista e vive sob um regime totalitário. Na luta pela liberdade, um vigilante, conhecido apenas por V, utiliza-se de táticas terroristas para enfrentar os opressores da sociedade. V salva uma jovem chamada Evey da polícia secreta e encontra nela uma nova aliada em busca da liberdade e justiça para o seu país(n)</desc>
+    <credits>
+      <actor>Natalie Portman</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Stephen Rea</actor>
+      <actor>John Hurt</actor>
+      <actor>Rupert Graves</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_v-de-vinganca-2006-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008133000 -0300" stop="20181008150000 -0300" channel="Maxprime">
+    <title lang="pt">Kareem - Minoria de Um (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">A influente carreira do astro americano do basquete, Kareem Abdul-Jabbar: uma lenda dentro e fora das quadras(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_kareem-minoria-de-um_p_m.jpg" />
+  </programme>
+  <programme start="20181008150000 -0300" stop="20181008163000 -0300" channel="Maxprime">
+    <title lang="pt">Fronteira Virtual (?)</title>
+    <desc lang="pt">Dois gênios invadem as memórias de terroristas para identificar a localização das bombas usando um ambiente de realidade virtual, mas algumas pessoas querem usar a nuvem de memória para fins perversos(n)</desc>
+    <credits>
+      <actor>Gabriel Byrne</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>Adetomiwa Edun</actor>
+      <actor>Tomiwa Edun</actor>
+      <actor>Laura Fraser</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_fronteira-virtual-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008163000 -0300" stop="20181008181000 -0300" channel="Maxprime">
+    <title lang="pt">Marcas da Violência (?)</title>
+    <desc lang="pt">Quando uma dupla de ladrões tenta roubar seu restaurante em uma pequena cidade, Tom Stall utiliza suas habilidades para impedi-los. A ação heroica vai parar na televisão e um estranho chega até a cidade dizendo que Tom, na verdade, é um mafioso desaparecido da Filadélfia. Para o terror de sua esposa e de seu filho adolescente, ele agora terá que confrontar o seu passado violento(n)</desc>
+    <credits>
+      <actor>Viggo Mortensen</actor>
+      <actor>Maria Bello</actor>
+      <actor>William Hurt</actor>
+      <actor>Ashton Holmes</actor>
+      <actor>Stephen McHattie</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_marcas-da-violencia-2005-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008181000 -0300" stop="20181008200000 -0300" channel="Maxprime">
+    <title lang="pt">Paterno (?)</title>
+    <desc lang="pt">Um retrato de como o aclamado treinador de futebol americano universitário Joe Paterno lidou com as acusações de abuso sexual contra um de seus membros mais importantes da comissão técnica, Jerry Sandusky, durante mais de 15 anos. O time de Penn State era considerado um dos melhores e de reputação honrosa dentro a liga(n)</desc>
+    <credits>
+      <actor>Al Pacino</actor>
+      <actor>Riley Keough</actor>
+      <actor>Tess Frazer</actor>
+      <actor>Annie Parisse</actor>
+      <actor>Kathy Baker</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Biography</category>
+    <icon src="http://images.mi.tv/programs/br_paterno-2018_p_m.jpg" />
+  </programme>
+  <programme start="20181008200000 -0300" stop="20181008210000 -0300" channel="Maxprime">
+    <title lang="pt">Boardwalk Empire - O Império do Contrabando (?)</title>
+    <sub-title lang="pt">Temporada 3 Episódio 2</sub-title>
+    <desc lang="pt">Nucky mistura trabalho com prazer em Nova York; Gyp faz um jogo de poder em Tabor Heights; Eli tem um novo chefe. Margaret tem problemas no hospital, enquanto Chalky e sua filha Maybelle não concordam sobre o futuro dela com Samuel(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_boardwalk-empire-o-imperio-do-contrabando-s03e02_p_m.jpg" />
+  </programme>
+  <programme start="20181008210000 -0300" stop="20181008224500 -0300" channel="Maxprime">
+    <title lang="pt">O Jogador (?)</title>
+    <desc lang="pt">O ex-policial Matt Conlin visita o fundo do poço. Sua bebedeira está fora de controle e ele tem uma dívida de jogos muito grande. Matt está prestes a desistir quando um velho homem enigmático aproxima-se dele com uma proposta. O homem paga as dívidas de Matt se ele concordar em assassinar o maior criminoso da cidade. Embora relutante, Matt aceita a missão, mas logo percebe que não é tão simples como parece(n)</desc>
+    <credits>
+      <actor>Steven Seagal</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Blanchard Ryan</actor>
+      <actor>Wass Stevens</actor>
+      <actor>Bernie McInerney</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_o-jogador-2008-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008224500 -0300" stop="20181009001500 -0300" channel="Maxprime">
+    <title lang="pt">Fronteira Virtual (?)</title>
+    <desc lang="pt">Dois gênios invadem as memórias de terroristas para identificar a localização das bombas usando um ambiente de realidade virtual, mas algumas pessoas querem usar a nuvem de memória para fins perversos(n)</desc>
+    <credits>
+      <actor>Gabriel Byrne</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>Adetomiwa Edun</actor>
+      <actor>Tomiwa Edun</actor>
+      <actor>Laura Fraser</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_fronteira-virtual-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009001500 -0300" stop="20181009022500 -0300" channel="Maxprime">
+    <title lang="pt">Sem Medo de Viver (?)</title>
+    <desc lang="pt">Quando Max Klein sobrevive a um acidente de avião que mata muitos outros, suas epifanias de última hora lhe dão uma sensação de invulnerabilidade, levando a um comportamento radical. Após o acidente, em vez de entrar em contato com sua esposa, ele embarca em uma viagem para ver sua antiga namorada, come alimentos aos quais era alérgico anteriormente, e estranhamente, não tem medo de voar(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Isabella Rossellini</actor>
+      <actor>Rosie Perez</actor>
+      <actor>Tom Hulce</actor>
+      <actor>John Turturro</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_sem-medo-de-viver-1993_p_m.jpg" />
+    <star-rating>
+      <value>7.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009022500 -0300" stop="20181009045000 -0300" channel="Maxprime">
+    <title lang="pt">Lone Star - A Estrela Solitária (?)</title>
+    <desc lang="pt">O xerife de uma pequena cidade do Texas encontra os restos mortais de um criminoso supostamente banido pelo legendário Buddy Deads há 40 anos e, ao investigar, acaba tendo que lidar com mágoas passadas do falecido pai(n)</desc>
+    <credits>
+      <actor>Chris Cooper</actor>
+      <actor>Elizabeth Peña</actor>
+      <actor>Joe Morton</actor>
+      <actor>Ron Canada</actor>
+      <actor>Clifton James</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_lone-star-a-estrela-solitaria-1996_p_m.jpg" />
+  </programme>
+  <programme start="20181009045000 -0300" stop="20181009045000 -0300" channel="Maxprime">
+    <title lang="pt">Armados e Perigosos (?)</title>
+    <desc lang="pt">Policial injustamente demitido e um advogado inútil começam uma nova carreira como guardas de segurança. Quando levam a culpa por um assalto ao local que vigiam, começam a investigar a corrupção dentro da empresa, enfrentando muitos inimigos(n)</desc>
+    <credits>
+      <actor>John Candy</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Kenneth McMillan</actor>
+      <actor>Meg Ryan</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_armados-e-perigosos-1986_p_m.jpg" />
+  </programme>
+  <programme start="20181009045000 -0300" stop="20181009062000 -0300" channel="Maxprime">
+    <title lang="pt">Armados e Perigosos (?)</title>
+    <desc lang="pt">Policial injustamente demitido e um advogado inútil começam uma nova carreira como guardas de segurança. Quando levam a culpa por um assalto ao local que vigiam, começam a investigar a corrupção dentro da empresa, enfrentando muitos inimigos(n)</desc>
+    <credits>
+      <actor>John Candy</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Kenneth McMillan</actor>
+      <actor>Meg Ryan</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_armados-e-perigosos-1986_p_m.jpg" />
+  </programme>
+  <programme start="20181009062000 -0300" stop="20181009083500 -0300" channel="Maxprime">
+    <title lang="pt">O Guarda-Costas (?)</title>
+    <desc lang="pt">Rachel Marron, uma cantora pop com recorde de vendas, tem um perseguidor, que por causa de sua obsessão, acaba lhe fazendo ameaças perturbadoras. Atendendo ao pedido de seu empresário, Rachel contrata Frank Farmer, um ex-agente do serviço secreto, como seu guarda-costas. Inicialmente tratado com desdém por seus processos de segurança, Farmer logo se torna parte integrante do círculo íntimo de Rachel(n)</desc>
+    <credits>
+      <actor>Kevin Costner</actor>
+      <actor>Whitney Houston</actor>
+      <actor>Gary Kemp</actor>
+      <actor>Bill Cobbs</actor>
+      <actor>Ralph Waite</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-guarda-costas-1992-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009083500 -0300" stop="20181009102000 -0300" channel="Maxprime">
+    <title lang="pt">Com o Dinheiro dos Outros (?)</title>
+    <desc lang="pt">Lawrence Garfield negocia empresas em situação financeira ruim e não hesita em fazer jogadas inescrupulosas. Agora ele está de olho na empresa familiar comandada por Andrew, que pede ajuda à sua filha advogada Kate para salvar a companhia(n)</desc>
+    <credits>
+      <actor>Danny DeVito</actor>
+      <actor>Penelope Miller</actor>
+      <actor>Gregory Peck</actor>
+      <actor>Piper Laurie</actor>
+      <actor>Dean Jones</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_com-o-dinheiro-dos-outros-1991_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009102000 -0300" stop="20181009105000 -0300" channel="Maxprime">
+    <title lang="pt">CES 2018: Smart World (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">A famosa Consumer Electronics Show (CES) chegou mais uma vez ao Centro de Convenções de Las Vegas para mostrar que 2018 tem muita tecnologia a oferecer. Novos aparelhos e lançamentos causaram euforia ao público(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_ces-2018-smart-world-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009105000 -0300" stop="20181009125000 -0300" channel="Maxprime">
+    <title lang="pt">A Outra História Americana (?)</title>
+    <desc lang="pt">Vivendo uma vida marcada pela violência e racismo, o neonazista Derek Vinyard finalmente vai para a prisão depois de matar dois jovens negros que tentaram roubar seu carro. Após a sua libertação, Derek promete mudar seu jeito e espera evitar seu irmão mais novo, Danny, que idolatra Derek, de seguir os seus passos enquanto ele luta contra seus próprios preconceitos(n)</desc>
+    <credits>
+      <actor>Edward Norton</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Fairuza Balk</actor>
+      <actor>Beverly D'Angelo</actor>
+      <actor>Avery Brooks</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-outra-historia-americana-1998_p_m.jpg" />
+  </programme>
+  <programme start="20181009125000 -0300" stop="20181009145500 -0300" channel="Maxprime">
+    <title lang="pt">Kong - A Ilha da Caveira (?)</title>
+    <desc lang="pt">Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o Titan, soro que teria o poder de curar todas as doenças. Além de resgatar o irmão, o homem irá enfrentar as criaturas que habitam o local. A equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong(n)</desc>
+    <credits>
+      <actor>Tom Hiddleston</actor>
+      <actor>Samuel Jackson</actor>
+      <actor>Brie Larson</actor>
+      <actor>John Reilly</actor>
+      <actor>John Goodman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://images.mi.tv/programs/br_kong-a-ilha-da-caveira-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009145500 -0300" stop="20181009163500 -0300" channel="Maxprime">
+    <title lang="pt">Sully - O Herói do Rio Hudson (?)</title>
+    <desc lang="pt">Em 2009, o mundo entrou em estado de choque e admiração quando o Capitão Chesley "Sully" Sullenberger conseguiu pousar um avião em pane no Rio Hudson. Esse ato quase impossível salvou a vida dos 150 passageiros e alçou Sully à categoria de herói nacional. No entanto, nem mesmo a aclamação pública foi capaz de impedir uma investigação rigorosa sobre sua reputação e carreira(n)</desc>
+    <credits>
+      <actor>Tom Hanks</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Valerie Mahaffey</actor>
+      <actor>Delphi Harrington</actor>
+      <actor>Mike O'Malley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_sully-o-heroi-do-rio-hudson-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009163500 -0300" stop="20181009174000 -0300" channel="Maxprime">
+    <title lang="pt">Outros Tempos - Jovens (?)</title>
+    <sub-title lang="pt">Documentary</sub-title>
+    <desc lang="pt">Entenda o que significa ser um jovem do século 21 no Brasil, por meio de relatos reflexivos, íntimos e sinceros(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_outros-tempos-jovens_p_m.jpg" />
+  </programme>
+  <programme start="20181009174000 -0300" stop="20181009184500 -0300" channel="Maxprime">
+    <title lang="pt">Outros Tempos - Jovens (?)</title>
+    <sub-title lang="pt">Documentary</sub-title>
+    <desc lang="pt">Entenda o que significa ser um jovem do século 21 no Brasil, por meio de relatos reflexivos, íntimos e sinceros(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_outros-tempos-jovens_p_m.jpg" />
+  </programme>
+  <programme start="20181009184500 -0300" stop="20181009195500 -0300" channel="Maxprime">
+    <title lang="pt">Outros Tempos - Jovens (?)</title>
+    <sub-title lang="pt">Documentary</sub-title>
+    <desc lang="pt">Entenda o que significa ser um jovem do século 21 no Brasil, por meio de relatos reflexivos, íntimos e sinceros(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_outros-tempos-jovens_p_m.jpg" />
+  </programme>
+  <programme start="20181009195500 -0300" stop="20181009210000 -0300" channel="Maxprime">
+    <title lang="pt">Outros Tempos - Jovens (?)</title>
+    <sub-title lang="pt">Documentary</sub-title>
+    <desc lang="pt">Entenda o que significa ser um jovem do século 21 no Brasil, por meio de relatos reflexivos, íntimos e sinceros(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_outros-tempos-jovens_p_m.jpg" />
+  </programme>
+  <programme start="20181009210000 -0300" stop="20181009225500 -0300" channel="Maxprime">
+    <title lang="pt">O Duelista (?)</title>
+    <desc lang="pt">No século 19, um famoso duelista leva a pior após um confronto, mas é ressuscitado por forças sobrenaturais. Destinado à vencer todas suas próximas batalhas, ele começa a mudar de pensamento quando conhece uma doce e linda mulher, mas descobre que ela é irmã de seu próximo oponente(n)</desc>
+    <credits>
+      <actor>Pyotr Fyodorov</actor>
+      <actor>Vladimir Mashkov</actor>
+      <actor>Yuliya Khlynina</actor>
+      <actor>Yuri Kolokolnikov</actor>
+      <actor>Aleksandr Mizev</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Historical drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-duelista-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009225500 -0300" stop="20181010010000 -0300" channel="Maxprime">
+    <title lang="pt">Kong - A Ilha da Caveira (?)</title>
+    <desc lang="pt">Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o Titan, soro que teria o poder de curar todas as doenças. Além de resgatar o irmão, o homem irá enfrentar as criaturas que habitam o local. A equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong(n)</desc>
+    <credits>
+      <actor>Tom Hiddleston</actor>
+      <actor>Samuel Jackson</actor>
+      <actor>Brie Larson</actor>
+      <actor>John Reilly</actor>
+      <actor>John Goodman</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://images.mi.tv/programs/br_kong-a-ilha-da-caveira-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007052000 -0300" stop="20181007072500 -0300" channel="Maxprime*e">
+    <title lang="pt">Krull (?)</title>
+    <desc lang="pt">No planeta Krull, uma criatura maligna chamada A Besta dizima o exército mundial e sequestra a doce princesa Lyssa, destinada a ser rainha. Seu amado, o príncipe Colwyn, lidera um bando de rebeldes para resgatá-la(n)</desc>
+    <credits>
+      <actor>Ken Marshall</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>Freddie Jones</actor>
+      <actor>Francesca Annis</actor>
+      <actor>Alun Armstrong</actor>
+    </credits>
+    <date>1983</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://images.mi.tv/programs/br_krull-1983_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007072500 -0300" stop="20181007112000 -0300" channel="Maxprime*e">
+    <title lang="pt">Matrix Revolutions (?)</title>
+    <desc lang="pt">Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana(n)</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Jada Smith</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://images.mi.tv/programs/br_matrix-revolutions-2003_p_m.jpg" />
+    <star-rating>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007112000 -0300" stop="20181007125000 -0300" channel="Maxprime*e">
+    <title lang="pt">Fronteira Virtual (?)</title>
+    <desc lang="pt">Dois gênios invadem as memórias de terroristas para identificar a localização das bombas usando um ambiente de realidade virtual, mas algumas pessoas querem usar a nuvem de memória para fins perversos(n)</desc>
+    <credits>
+      <actor>Gabriel Byrne</actor>
+      <actor>Justin Chatwin</actor>
+      <actor>Adetomiwa Edun</actor>
+      <actor>Tomiwa Edun</actor>
+      <actor>Laura Fraser</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_fronteira-virtual-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007125000 -0300" stop="20181007143000 -0300" channel="Maxprime*e">
+    <title lang="pt">Sully - O Herói do Rio Hudson (?)</title>
+    <desc lang="pt">Em 2009, o mundo entrou em estado de choque e admiração quando o Capitão Chesley "Sully" Sullenberger conseguiu pousar um avião em pane no Rio Hudson. Esse ato quase impossível salvou a vida dos 150 passageiros e alçou Sully à categoria de herói nacional. No entanto, nem mesmo a aclamação pública foi capaz de impedir uma investigação rigorosa sobre sua reputação e carreira(n)</desc>
+    <credits>
+      <actor>Tom Hanks</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Valerie Mahaffey</actor>
+      <actor>Delphi Harrington</actor>
+      <actor>Mike O'Malley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_sully-o-heroi-do-rio-hudson-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007143000 -0300" stop="20181007163500 -0300" channel="Maxprime*e">
+    <title lang="pt">No Fim do Túnel (?)</title>
+    <desc lang="pt">A vida de Joaquim parece estar melhorando desde que Berta e Betty chegaram em sua vida. Mas sua tranquilidade termina quando ele descobre que um grupo de ladrões fez um túnel sob sua casa para roubar um banco(n)</desc>
+    <credits>
+      <actor>Leonardo Sbaraglia</actor>
+      <actor>Pablo Echarri</actor>
+      <actor>Clara Lago</actor>
+      <actor>Javier Godino</actor>
+      <actor>Federico Luppi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_no-fim-do-tunel-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007163500 -0300" stop="20181007170500 -0300" channel="Maxprime*e">
+    <title lang="pt">CES 2018: Smart World (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">A famosa Consumer Electronics Show (CES) chegou mais uma vez ao Centro de Convenções de Las Vegas para mostrar que 2018 tem muita tecnologia a oferecer. Novos aparelhos e lançamentos causaram euforia ao público(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_ces-2018-smart-world-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007170500 -0300" stop="20181007191500 -0300" channel="Maxprime*e">
+    <title lang="pt">Matrix Revolutions (?)</title>
+    <desc lang="pt">Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana(n)</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Jada Smith</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://images.mi.tv/programs/br_matrix-revolutions-2003_p_m.jpg" />
+    <star-rating>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007191500 -0300" stop="20181007205500 -0300" channel="Maxprime*e">
+    <title lang="pt">A Torre Negra (?)</title>
+    <desc lang="pt">O pistoleiro Roland Deschain percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto, passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King(n)</desc>
+    <credits>
+      <actor>Idris Elba</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Tom Taylor</actor>
+      <actor>Claudia Kim</actor>
+      <actor>Fran Kranz</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://images.mi.tv/programs/br_a-torre-negra-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007205500 -0300" stop="20181007212000 -0300" channel="Maxprime*e">
+    <title lang="pt">New York Auto Show 2018 (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">Uma viagem através da exposição automotiva mais importante do mundo. Um luxuoso evento realizado há 118 anos e que acontece, mais uma vez, no Javits Center, no coração de Manhattan(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_new-york-auto-show-2018_p_m.jpg" />
+  </programme>
+  <programme start="20181007212000 -0300" stop="20181007230000 -0300" channel="Maxprime*e">
+    <title lang="pt">Sully - O Herói do Rio Hudson (?)</title>
+    <desc lang="pt">Em 2009, o mundo entrou em estado de choque e admiração quando o Capitão Chesley "Sully" Sullenberger conseguiu pousar um avião em pane no Rio Hudson. Esse ato quase impossível salvou a vida dos 150 passageiros e alçou Sully à categoria de herói nacional. No entanto, nem mesmo a aclamação pública foi capaz de impedir uma investigação rigorosa sobre sua reputação e carreira(n)</desc>
+    <credits>
+      <actor>Tom Hanks</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Valerie Mahaffey</actor>
+      <actor>Delphi Harrington</actor>
+      <actor>Mike O'Malley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_sully-o-heroi-do-rio-hudson-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007230000 -0300" stop="20181008010500 -0300" channel="Maxprime*e">
+    <title lang="pt">No Fim do Túnel (?)</title>
+    <desc lang="pt">A vida de Joaquim parece estar melhorando desde que Berta e Betty chegaram em sua vida. Mas sua tranquilidade termina quando ele descobre que um grupo de ladrões fez um túnel sob sua casa para roubar um banco(n)</desc>
+    <credits>
+      <actor>Leonardo Sbaraglia</actor>
+      <actor>Pablo Echarri</actor>
+      <actor>Clara Lago</actor>
+      <actor>Javier Godino</actor>
+      <actor>Federico Luppi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_no-fim-do-tunel-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008010500 -0300" stop="20181008031000 -0300" channel="Maxprime*e">
+    <title lang="pt">A Outra História Americana (?)</title>
+    <desc lang="pt">Vivendo uma vida marcada pela violência e racismo, o neonazista Derek Vinyard finalmente vai para a prisão depois de matar dois jovens negros que tentaram roubar seu carro. Após a sua libertação, Derek promete mudar seu jeito e espera evitar seu irmão mais novo, Danny, que idolatra Derek, de seguir os seus passos enquanto ele luta contra seus próprios preconceitos(n)</desc>
+    <credits>
+      <actor>Edward Norton</actor>
+      <actor>Edward Furlong</actor>
+      <actor>Fairuza Balk</actor>
+      <actor>Beverly D'Angelo</actor>
+      <actor>Avery Brooks</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-outra-historia-americana-1998_p_m.jpg" />
+  </programme>
+  <programme start="20181008031000 -0300" stop="20181008055000 -0300" channel="Maxprime*e">
+    <title lang="pt">Os Canhões de Navarone (?)</title>
+    <desc lang="pt">Duas armas alemãs poderosas controlam os mares na ilha grega de Navarone, impedindo a saída das tropas britânicas de uma ilha vizinha. Contra chances mínimas, um esquadrão enfrenta mares tempestuosos e colinas imponentes e tenta destruir os canhões(n)</desc>
+    <credits>
+      <actor>Gregory Peck</actor>
+      <actor>David Niven</actor>
+      <actor>Anthony Quinn</actor>
+      <actor>Stanley Baker</actor>
+      <actor>Anthony Quayle</actor>
+    </credits>
+    <date>1961</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">War</category>
+    <icon src="http://images.mi.tv/programs/br_os-canh-es-de-navarone-1961_p_m.jpg" />
+  </programme>
+  <programme start="20181008055000 -0300" stop="20181008055000 -0300" channel="Maxprime*e">
+    <title lang="pt">Armados e Perigosos (?)</title>
+    <desc lang="pt">Policial injustamente demitido e um advogado inútil começam uma nova carreira como guardas de segurança. Quando levam a culpa por um assalto ao local que vigiam, começam a investigar a corrupção dentro da empresa, enfrentando muitos inimigos(n)</desc>
+    <credits>
+      <actor>John Candy</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Kenneth McMillan</actor>
+      <actor>Meg Ryan</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_armados-e-perigosos-1986_p_m.jpg" />
+  </programme>
+  <programme start="20181008055000 -0300" stop="20181008072500 -0300" channel="Maxprime*e">
+    <title lang="pt">Armados e Perigosos (?)</title>
+    <desc lang="pt">Policial injustamente demitido e um advogado inútil começam uma nova carreira como guardas de segurança. Quando levam a culpa por um assalto ao local que vigiam, começam a investigar a corrupção dentro da empresa, enfrentando muitos inimigos(n)</desc>
+    <credits>
+      <actor>John Candy</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Robert Loggia</actor>
+      <actor>Kenneth McMillan</actor>
+      <actor>Meg Ryan</actor>
+    </credits>
+    <date>1986</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_armados-e-perigosos-1986_p_m.jpg" />
+  </programme>
+  <programme start="20181008072500 -0300" stop="20181008092000 -0300" channel="Maxprime*e">
+    <title lang="pt">O Fio da Suspeita (?)</title>
+    <desc lang="pt">A advogada Teddy Barnes relutantemente aceita o caso do editor Jack Forrester, que está sendo acusado de matar sua esposa por dinheiro. Enquanto o julgamento se desenvolve, ela continua imaginando, até o último instante, se Jack é um homem inocente ou um astuto criminoso manipulador(n)</desc>
+    <credits>
+      <actor>Glenn Close</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Peter Coyote</actor>
+      <actor>Robert Loggia</actor>
+      <actor>John Dehner</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-fio-da-suspeita-1985_p_m.jpg" />
+  </programme>
+  <programme start="20181008092000 -0300" stop="20181008110000 -0300" channel="Maxprime*e">
+    <title lang="pt">O Eliminador (?)</title>
+    <desc lang="pt">Jason Price é um ex-agente do governo que ganha dinheiro ajudando pessoas a desaparecer por meio de um programa que ele criou. Quando seu amigo de infância Sonny e o gângster Paul Elker chegam pedindo ajuda, as coisas começam a se complicar. Alguém se infiltrou na rede de Price e seus clientes estão sendo mortos(n)</desc>
+    <credits>
+      <actor>Dolph Lundgren</actor>
+      <actor>Maxim Roy</actor>
+      <actor>Brigitte Paquette</actor>
+      <actor>Christian Paul</actor>
+      <actor>Patrick Kerton</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_o-eliminador-2001-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008110000 -0300" stop="20181008131500 -0300" channel="Maxprime*e">
+    <title lang="pt">Museum (?)</title>
+    <desc lang="pt">O recém-divorciado e triste detetive Hisashi Sawamura e seu ingênuo parceiro novato, Nishino, procuram por um serial killer de Tóquio que usa um traje de sapo gigante de desenho animado(n)</desc>
+    <credits>
+      <actor>Shun Oguri</actor>
+      <actor>Machiko Ono</actor>
+      <actor>Shûhei Nomura</actor>
+      <actor>Tomomi Maruyama</actor>
+      <actor>Tomoko Tabata</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_museum-2016_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008131500 -0300" stop="20181008151000 -0300" channel="Maxprime*e">
+    <title lang="pt">Nosso Fiel Traidor (?)</title>
+    <desc lang="pt">Um jovem casal britânico sai de férias para Antigua, a pequena ilha do Caribe. Lá, eles conhecem um carismático milionário russo que garante pertencer à máfia, onde é o melhor do mundo na lavagem de dinheiro(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Jeremy Northam</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_nosso-fiel-traidor-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008151000 -0300" stop="20181008171500 -0300" channel="Maxprime*e">
+    <title lang="pt">Invasão à Casa Branca (?)</title>
+    <desc lang="pt">O Serviço Secreto dos Estados Unidos conta com a ajuda do ex-segurança particular e amigo pessoal do presidente para resgatar o chefe de Estado e sua família de terroristas coreanos, que os fizeram reféns e assumiram o controle da Casa Branca(n)</desc>
+    <credits>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_invas-o-a-casa-branca-2013_p_m.jpg" />
+    <star-rating>
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008171500 -0300" stop="20181008185500 -0300" channel="Maxprime*e">
+    <title lang="pt">O Vendedor de Sonhos (?)</title>
+    <desc lang="pt">Um psicólogo decepcionado com a vida tenta o suicídio, mas é impedido de cometer o ato final por intermédio de um mendigo. Uma amizade peculiar surge e, logo, a dupla passa a tentar salvar pessoas ao apresentar um novo caminho para se viver(n)</desc>
+    <credits>
+      <actor>César Troncoso</actor>
+      <actor>Dan Stulbach</actor>
+      <actor>Thiago Mendonça</actor>
+      <actor>Kaik Pereira</actor>
+      <actor>Leonardo Medeiros</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-vendedor-de-sonhos-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008185500 -0300" stop="20181008211000 -0300" channel="Maxprime*e">
+    <title lang="pt">Museum (?)</title>
+    <desc lang="pt">O recém-divorciado e triste detetive Hisashi Sawamura e seu ingênuo parceiro novato, Nishino, procuram por um serial killer de Tóquio que usa um traje de sapo gigante de desenho animado(n)</desc>
+    <credits>
+      <actor>Shun Oguri</actor>
+      <actor>Machiko Ono</actor>
+      <actor>Shûhei Nomura</actor>
+      <actor>Tomomi Maruyama</actor>
+      <actor>Tomoko Tabata</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_museum-2016_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008211000 -0300" stop="20181008230000 -0300" channel="Maxprime*e">
+    <title lang="pt">Nosso Fiel Traidor (?)</title>
+    <desc lang="pt">Um jovem casal britânico sai de férias para Antigua, a pequena ilha do Caribe. Lá, eles conhecem um carismático milionário russo que garante pertencer à máfia, onde é o melhor do mundo na lavagem de dinheiro(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Stellan Skarsgard</actor>
+      <actor>Damian Lewis</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Jeremy Northam</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_nosso-fiel-traidor-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008230000 -0300" stop="20181009010000 -0300" channel="Maxprime*e">
+    <title lang="pt">Invasão à Casa Branca (?)</title>
+    <desc lang="pt">O Serviço Secreto dos Estados Unidos conta com a ajuda do ex-segurança particular e amigo pessoal do presidente para resgatar o chefe de Estado e sua família de terroristas coreanos, que os fizeram reféns e assumiram o controle da Casa Branca(n)</desc>
+    <credits>
+      <actor>Gerard Butler</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Melissa Leo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_invas-o-a-casa-branca-2013_p_m.jpg" />
+    <star-rating>
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009010000 -0300" stop="20181009024000 -0300" channel="Maxprime*e">
+    <title lang="pt">Operação Avalanche (?)</title>
+    <desc lang="pt">Sob a suspeita de que há um espião russo tentando sabotar a missão Apolo, a CIA envia um grupo de agentes disfarçados de cineastas para produzirem um documentário da missão. Durante a investigação, eles descobrem algo muito pior do que esperavam(n)</desc>
+    <credits>
+      <actor>Matt Johnson</actor>
+      <actor>Owen Williams</actor>
+      <actor>Andy Appelle</actor>
+      <actor>Jared Raab</actor>
+      <actor>Josh Boles</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_operac-o-avalanche-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009024000 -0300" stop="20181009044000 -0300" channel="Maxprime*e">
+    <title lang="pt">Starman - O Homem das Estrelas (?)</title>
+    <desc lang="pt">A nave de um ser espacial cai na Terra e, para não ser preso pela autoridades, ele assume a forma de um homem recém-falecido. Após o choque inicial, a viúva se afeiçoa ao "homem das estrelas" e o ajuda a tentar retornar ao seu planeta(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Karen Allen</actor>
+      <actor>Charles Smith</actor>
+      <actor>Richard Jaeckel</actor>
+      <actor>Robert Phalen</actor>
+    </credits>
+    <date>1984</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://images.mi.tv/programs/br_starman-o-homem-das-estrelas-1984_p_m.jpg" />
+  </programme>
+  <programme start="20181009044000 -0300" stop="20181009044000 -0300" channel="Maxprime*e">
+    <title lang="pt">Krull (?)</title>
+    <desc lang="pt">No planeta Krull, uma criatura maligna chamada A Besta dizima o exército mundial e sequestra a doce princesa Lyssa, destinada a ser rainha. Seu amado, o príncipe Colwyn, lidera um bando de rebeldes para resgatá-la(n)</desc>
+    <credits>
+      <actor>Ken Marshall</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>Freddie Jones</actor>
+      <actor>Francesca Annis</actor>
+      <actor>Alun Armstrong</actor>
+    </credits>
+    <date>1983</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://images.mi.tv/programs/br_krull-1983_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009044000 -0300" stop="20181009064500 -0300" channel="Maxprime*e">
+    <title lang="pt">Krull (?)</title>
+    <desc lang="pt">No planeta Krull, uma criatura maligna chamada A Besta dizima o exército mundial e sequestra a doce princesa Lyssa, destinada a ser rainha. Seu amado, o príncipe Colwyn, lidera um bando de rebeldes para resgatá-la(n)</desc>
+    <credits>
+      <actor>Ken Marshall</actor>
+      <actor>Lysette Anthony</actor>
+      <actor>Freddie Jones</actor>
+      <actor>Francesca Annis</actor>
+      <actor>Alun Armstrong</actor>
+    </credits>
+    <date>1983</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://images.mi.tv/programs/br_krull-1983_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009064500 -0300" stop="20181009080000 -0300" channel="Maxprime*e">
+    <title lang="pt">Batman vs. Duas Caras (?)</title>
+    <desc lang="pt">Um dispositivo inventado para eliminar o mal das mentes criminosas falha e Harvey Dent, o promotor da cidade de Gotham, transforma-se na sinistra e dupla personalidade do Duas Caras(n)</desc>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_batman-vs-duas-caras-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009080000 -0300" stop="20181009092000 -0300" channel="Maxprime*e">
+    <title lang="pt">Gotham City 1889 - Um Conto de Batman (?)</title>
+    <desc lang="pt">Gotham, na virada do século, está passando por uma época de descoberta e indústria, mas nos becos mais sombrios há um assassino à solta. Trabalhando juntos, Batman e o comandante da Polícia James Gordon tentam capturar o temível Jack, o estripador(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://images.mi.tv/programs/br_gotham-city-1889-um-conto-de-batman-2018_p_m.jpg" />
+  </programme>
+  <programme start="20181009092000 -0300" stop="20181009112000 -0300" channel="Maxprime*e">
+    <title lang="pt">Conspiração Tequila (?)</title>
+    <desc lang="pt">Dois velhos amigos cresceram em lados opostos da lei. Um é ex-traficante, enquanto o outro, um conhecido policial. Os destinos dos dois voltam a se cruzar quando ambos se apaixonam pela mesma mulher, dando início a um perigoso triângulo amoroso(n)</desc>
+    <credits>
+      <actor>Mel Gibson</actor>
+      <actor>Michelle Pfeiffer</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Raul Julia</actor>
+      <actor>J.T. Walsh</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Crime drama</category>
+    <icon src="http://images.mi.tv/programs/br_conspirac-o-tequila-1988_p_m.jpg" />
+    <star-rating>
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009112000 -0300" stop="20181009115000 -0300" channel="Maxprime*e">
+    <title lang="pt">Especial Expo Internacional de Motos 2017 (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">Exposição reúne os profissionais das duas rodas para aproveitar os lançamentos das principais marcas de motos, acessórios, roupas e calçados com as últimas tendências no mundo do motociclismo(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_especial-expo-internacional-de-motos-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009115000 -0300" stop="20181009132500 -0300" channel="Maxprime*e">
+    <title lang="pt">MIB - Homens de Preto 2 (?)</title>
+    <desc lang="pt">Kay e Jay se unem para proporcionar uma melhor linha de defesa contra uma sedutora e desafiadora missão para os MIB: proteger a Terra. Enquanto investigam um crime, Jay descobre um enredo arquitetado por Serleena, uma Kylothian monstro que se disfarça como uma modelo terráquea. Quando Serleena se apossa do prédio dos MIB, só uma pessoa pode ajudar Jay, seu ex parceiro Kay(n)</desc>
+    <credits>
+      <actor>Tommy Jones</actor>
+      <actor>Will Smith</actor>
+      <actor>Rip Torn</actor>
+      <actor>Lara Flynn Boyle</actor>
+      <actor>Rosario Dawson</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_mib-homens-de-preto-2-2002-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009132500 -0300" stop="20181009152000 -0300" channel="Maxprime*e">
+    <title lang="pt">Além da Morte (?)</title>
+    <desc lang="pt">Cinco estudantes de medicina enfrentam as consequências de engatilhar experiências de quase morte(n)</desc>
+    <credits>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_alem-da-morte-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009152000 -0300" stop="20181009173000 -0300" channel="Maxprime*e">
+    <title lang="pt">Matrix Revolutions (?)</title>
+    <desc lang="pt">Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana(n)</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Carrie-Anne Moss</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Jada Smith</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://images.mi.tv/programs/br_matrix-revolutions-2003_p_m.jpg" />
+    <star-rating>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009173000 -0300" stop="20181009185500 -0300" channel="Maxprime*e">
+    <title lang="pt">Awake - A Vida por um Fio (?)</title>
+    <desc lang="pt">Enquanto é operado, um jovem desperta, porém, totalmente paralisado. Consequentemente, não consegue se comunicar com os médicos para alertá-los sobre sua condição. Enquanto isso, sua esposa luta contra seus próprios problemas(n)</desc>
+    <credits>
+      <actor>Hayden Christensen</actor>
+      <actor>Jessica Alba</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Lena Olin</actor>
+      <actor>Sam Robards</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_awake-a-vida-por-um-fio-2007-2_p_m.jpg" />
+  </programme>
+  <programme start="20181009185500 -0300" stop="20181009205000 -0300" channel="Maxprime*e">
+    <title lang="pt">Além da Morte (?)</title>
+    <desc lang="pt">Cinco estudantes de medicina enfrentam as consequências de engatilhar experiências de quase morte(n)</desc>
+    <credits>
+      <actor>Ellen Page</actor>
+      <actor>Diego Luna</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James Norton</actor>
+      <actor>Kiersey Clemons</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_alem-da-morte-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009205000 -0300" stop="20181009212000 -0300" channel="Maxprime*e">
+    <title lang="pt">Especial Expo Internacional de Motos 2017 (?)</title>
+    <sub-title lang="pt">Special</sub-title>
+    <desc lang="pt">Exposição reúne os profissionais das duas rodas para aproveitar os lançamentos das principais marcas de motos, acessórios, roupas e calçados com as últimas tendências no mundo do motociclismo(n)</desc>
+    <icon src="http://images.mi.tv/programs/br_especial-expo-internacional-de-motos-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181009212000 -0300" stop="20181009230000 -0300" channel="Maxprime*e">
+    <title lang="pt">Marcas da Violência (?)</title>
+    <desc lang="pt">Quando uma dupla de ladrões tenta roubar seu restaurante em uma pequena cidade, Tom Stall utiliza suas habilidades para impedi-los. A ação heroica vai parar na televisão e um estranho chega até a cidade dizendo que Tom, na verdade, é um mafioso desaparecido da Filadélfia. Para o terror de sua esposa e de seu filho adolescente, ele agora terá que confrontar o seu passado violento(n)</desc>
+    <credits>
+      <actor>Viggo Mortensen</actor>
+      <actor>Maria Bello</actor>
+      <actor>William Hurt</actor>
+      <actor>Ashton Holmes</actor>
+      <actor>Stephen McHattie</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_marcas-da-violencia-2005-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009230000 -0300" stop="20181010004500 -0300" channel="Maxprime*e">
+    <title lang="pt">O Jogador (?)</title>
+    <desc lang="pt">O ex-policial Matt Conlin visita o fundo do poço. Sua bebedeira está fora de controle e ele tem uma dívida de jogos muito grande. Matt está prestes a desistir quando um velho homem enigmático aproxima-se dele com uma proposta. O homem paga as dívidas de Matt se ele concordar em assassinar o maior criminoso da cidade. Embora relutante, Matt aceita a missão, mas logo percebe que não é tão simples como parece(n)</desc>
+    <credits>
+      <actor>Steven Seagal</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Blanchard Ryan</actor>
+      <actor>Wass Stevens</actor>
+      <actor>Bernie McInerney</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_o-jogador-2008-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007052000 -0300" stop="20181007065500 -0300" channel="Max Up">
+    <title lang="pt">Looney Tunes - De Volta à Ação (?)</title>
+    <desc lang="pt">Para ajudar um dublê de filmes, os Looney Tunes saem à procura de seu pai desaparecido e do místico diamante Macaco Azul(n)</desc>
+    <credits>
+      <actor>Brendan Fraser</actor>
+      <actor>Jenna Elfman</actor>
+      <actor>Steve Martin</actor>
+      <actor>Timothy Dalton</actor>
+      <actor>Heather Locklear</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_looney-tunes-de-volta-a-ac-o-2003-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007065500 -0300" stop="20181007101000 -0300" channel="Max Up">
+    <title lang="pt">As Aventuras de Robinson Crusoé (?)</title>
+    <desc lang="pt">Em uma pequena e exótica ilha, Tuesday, um papagaio pensa que viver naquele paraíso é muito pouco para ele - e está amadurecendo seu desejo de conhecer o mundo. Depois de uma violenta tempestade, a ilha recebe um refugiado - Robinson Crusoe. O que começa com um jogo de interesses, já que o pássaro vê no rapaz um bilhete para fora da ilha, e o rapaz, em Tuesday, uma forma de sobreviver naquele lugar, vai se desenvolver para uma profunda relação de amizade e companheirismo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_as-aventuras-de-robinson-crusoe-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007101000 -0300" stop="20181007120500 -0300" channel="Max Up">
+    <title lang="pt">Pure Country 2: O Dom da Música (?)</title>
+    <desc lang="pt">Três anjos concedem o dom da música para uma menina e agora ela deverá seguir uma série de regras para conseguir conservá-lo durante sua caminhada para a fama e o sucesso(n)</desc>
+    <credits>
+      <actor>Katrina Elam</actor>
+      <actor>Dean Cain</actor>
+      <actor>Krisinda Cain</actor>
+      <actor>Ryan Cheng</actor>
+      <actor>Travis Fimmel</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_pure-country-2-o-dom-da-musica-2010_p_m.jpg" />
+  </programme>
+  <programme start="20181007120500 -0300" stop="20181007133000 -0300" channel="Max Up">
+    <title lang="pt">Meu Pai é Mãe de Equipe (?)</title>
+    <desc lang="pt">Advogado de sucesso, o viúvo Eddie Serrano quase não tem tempo para Naomi, sua filha adolescente, até que se vê obrigado a liderar sua equipe de bandeirantes durante o acampamento anual de primavera. Será que o desafio conseguirá unir pai e filha?(n)</desc>
+    <credits>
+      <actor>George Lopez</actor>
+      <actor>Daniela Bobadilla</actor>
+      <actor>Jane Lynch</actor>
+      <actor>Julia Benson</actor>
+      <actor>Elizabeth Thai</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_meu-pai-e-m-e-de-equipe-2009-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007133000 -0300" stop="20181007153000 -0300" channel="Max Up">
+    <title lang="pt">Divinos Segredos (?)</title>
+    <desc lang="pt">Conto clássico que se passa em pacata paróquia na Louisiana. Um grupo de antigos amigos faz uma intervenção pouco ortodoxa para ajudar uma jovem dramaturga a desvendar a verdade sobre sua complicada e excêntrica mãe, além de perdoar e superar seu passado doloroso(n)</desc>
+    <credits>
+      <actor>Sandra Bullock</actor>
+      <actor>Ellen Burstyn</actor>
+      <actor>Fionnula Flanagan</actor>
+      <actor>James Garner</actor>
+      <actor>Cherry Jones</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_divinos-segredos-2002-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007153000 -0300" stop="20181007173500 -0300" channel="Max Up">
+    <title lang="pt">Breakable You - A Sua Parte Frágil (?)</title>
+    <desc lang="pt">O filme segue os Weller e conta a dinâmica deste grupo familiar no âmbito da cidade de Nova York. Seus membros incluem um dramaturgo saudoso, sua ex-esposa e sua filha, uma estudante graduada em filosofia(n)</desc>
+    <credits>
+      <actor>Holly Hunter</actor>
+      <actor>Tony Shalhoub</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Cristin Milioti</actor>
+      <actor>Omar Metwally</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_breakable-you-a-sua-parte-fragil-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007173500 -0300" stop="20181007191500 -0300" channel="Max Up">
+    <title lang="pt">Linhas Cruzadas (?)</title>
+    <desc lang="pt">Três irmãs (Meg Ryan, Diane Keaton, Lisa Kudrow) têm uma relação de amor, ódio e vida com o telefone e descobrem que o pai, após anos de vida intensa, afeto intermitente e constantes telefonemas, foi internado em um hospital de Los Angeles e está prestes a morrer(n)</desc>
+    <credits>
+      <actor>Meg Ryan</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Walter Matthau</actor>
+      <actor>Adam Arkin</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_linhas-cruzadas-2000_p_m.jpg" />
+    <star-rating>
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007191500 -0300" stop="20181007210000 -0300" channel="Max Up">
+    <title lang="pt">Amor à Distância (?)</title>
+    <desc lang="pt">Erin e Garrett estão muito apaixonados. Quando Erin se muda para São Francisco para terminar sua faculdade de jornalismo e Garrett fica em Nova York para trabalhar na indústria fonográfica, eles tentam manter o romance aceso com webcams e passagens de milhagem. Mas, justamente quando o casal está prestes a ficar junto novamente, ambos recebem propostas tentadoras que podem separá-los para sempre(n)</desc>
+    <credits>
+      <actor>Drew Barrymore</actor>
+      <actor>Justin Long</actor>
+      <actor>Charlie Day</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Christina Applegate</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_amor-a-distancia-2010-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007210000 -0300" stop="20181007223500 -0300" channel="Max Up">
+    <title lang="pt">A Hora da Mudança (?)</title>
+    <desc lang="pt">Os moradores de uma pequena cidade da Sicília estão cansados de viver no caos, o que os faz infringir a lei. Então eles elegem um novo prefeito que promete ordem e legalidade. O problema é que tudo já está corrompido e distante da recuperação(n)</desc>
+    <credits>
+      <actor>Ficarra</actor>
+      <actor>Picone</actor>
+      <actor>Vincenzo Amato</actor>
+      <actor>Antonio Catania</actor>
+      <actor>Sergio Friscia</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_a-hora-da-mudanca-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181007223500 -0300" stop="20181008004000 -0300" channel="Max Up">
+    <title lang="pt">Breakable You - A Sua Parte Frágil (?)</title>
+    <desc lang="pt">O filme segue os Weller e conta a dinâmica deste grupo familiar no âmbito da cidade de Nova York. Seus membros incluem um dramaturgo saudoso, sua ex-esposa e sua filha, uma estudante graduada em filosofia(n)</desc>
+    <credits>
+      <actor>Holly Hunter</actor>
+      <actor>Tony Shalhoub</actor>
+      <actor>Alfred Molina</actor>
+      <actor>Cristin Milioti</actor>
+      <actor>Omar Metwally</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_breakable-you-a-sua-parte-fragil-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008004000 -0300" stop="20181008023000 -0300" channel="Max Up">
+    <title lang="pt">A Dama Dourada (?)</title>
+    <desc lang="pt">Década de 80. Maria Altmann é uma judia sobrevivente da Segunda Guerra Mundial que decide lutar contra o governo austríaco para recuperar diversas obras de arte que pertenciam à sua família e foram roubadas durante o confronto(n)</desc>
+    <credits>
+      <actor>Helen Mirren</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Daniel Brühl</actor>
+      <actor>Katie Holmes</actor>
+      <actor>Tatiana Maslany</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Docudrama</category>
+    <icon src="http://images.mi.tv/programs/br_a-dama-dourada-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181008023000 -0300" stop="20181008041000 -0300" channel="Max Up">
+    <title lang="pt">Arthur - O Milionário Sedutor (?)</title>
+    <desc lang="pt">Arthur é um milionário com uma propensão para a boa vida. Mas sua familia está disposta a negar sua herança se não se casar com sua namorada chata em menos de um mês. O único problema é Linda, por quem Arthur é realmente apaixonado(n)</desc>
+    <credits>
+      <actor>Dudley Moore</actor>
+      <actor>John Gielgud</actor>
+      <actor>Liza Minnelli</actor>
+      <actor>Geraldine Fitzgerald</actor>
+      <actor>Jill Eikenberry</actor>
+    </credits>
+    <date>1981</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_arthur-o-milionario-sedutor-1981_p_m.jpg" />
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008041000 -0300" stop="20181008053500 -0300" channel="Max Up">
+    <title lang="pt">Meu Pai é Mãe de Equipe (?)</title>
+    <desc lang="pt">Advogado de sucesso, o viúvo Eddie Serrano quase não tem tempo para Naomi, sua filha adolescente, até que se vê obrigado a liderar sua equipe de bandeirantes durante o acampamento anual de primavera. Será que o desafio conseguirá unir pai e filha?(n)</desc>
+    <credits>
+      <actor>George Lopez</actor>
+      <actor>Daniela Bobadilla</actor>
+      <actor>Jane Lynch</actor>
+      <actor>Julia Benson</actor>
+      <actor>Elizabeth Thai</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_meu-pai-e-m-e-de-equipe-2009-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008053500 -0300" stop="20181008053500 -0300" channel="Max Up">
+    <title lang="pt">A Colheita da Fé (?)</title>
+    <desc lang="pt">O pastor Michael Spurlock recebe a tarefa de fechar uma igreja do interior e vender o terreno em que ela fica. Ele muda de ideia quando a igreja começa a receber refugiados de Burma que sabem cultivar a terra(n)</desc>
+    <credits>
+      <actor>John Corbett</actor>
+      <actor>Cara Buono</actor>
+      <actor>Myles Moore</actor>
+      <actor>Barry Corbin</actor>
+      <actor>Nelson Lee</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-colheita-da-fe-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008053500 -0300" stop="20181008072500 -0300" channel="Max Up">
+    <title lang="pt">A Colheita da Fé (?)</title>
+    <desc lang="pt">O pastor Michael Spurlock recebe a tarefa de fechar uma igreja do interior e vender o terreno em que ela fica. Ele muda de ideia quando a igreja começa a receber refugiados de Burma que sabem cultivar a terra(n)</desc>
+    <credits>
+      <actor>John Corbett</actor>
+      <actor>Cara Buono</actor>
+      <actor>Myles Moore</actor>
+      <actor>Barry Corbin</actor>
+      <actor>Nelson Lee</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_a-colheita-da-fe-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008072500 -0300" stop="20181008092000 -0300" channel="Max Up">
+    <title lang="pt">Cidade dos Anjos (?)</title>
+    <desc lang="pt">O filme conta a história de Seth, um anjo que vaga por Los Angeles invisível aos humanos. Quando o fim de um indivíduo se aproxima, ele se torna visível e age como seu companheiro de viagem para o além. A descoberta do sofrimento da cirurgiã Maggie o inspira a abrir mão de sua imortalidade e viver na Terra com a jovem(n)</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Meg Ryan</actor>
+      <actor>Andre Braugher</actor>
+      <actor>Dennis Franz</actor>
+      <actor>Colm Feore</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romance</category>
+    <icon src="http://images.mi.tv/programs/br_cidade-dos-anjos-1998_p_m.jpg" />
+    <star-rating>
+      <value>6.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008092000 -0300" stop="20181008105500 -0300" channel="Max Up">
+    <title lang="pt">Quando Você Viu Seu Pai Pela Última Vez? (?)</title>
+    <desc lang="pt">Apesar de sempre terem tido um relacionamento complicado, a descoberta de um câncer faz com que um poeta resolva se reconciliar com seu pai. Porém para isso, ele precisará enfrentar memórias conflitantes que viajam entre os anos 50, 60 e o fim dos anos 80(n)</desc>
+    <credits>
+      <actor>Jim Broadbent</actor>
+      <actor>Colin Firth</actor>
+      <actor>Juliet Stevenson</actor>
+      <actor>Gina McKee</actor>
+      <actor>Matthew Beard</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Biography</category>
+    <icon src="http://images.mi.tv/programs/br_quando-voce-viu-seu-pai-pela-ultima-vez-2007-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008105500 -0300" stop="20181008124500 -0300" channel="Max Up">
+    <title lang="pt">O Poder do Amor (?)</title>
+    <desc lang="pt">Grace Bichon descobre que está sendo traída por seu marido Eddie. Depois de confrontá-lo no meio da noite nas ruas de sua pequena cidade, ela decide ficar na casa da irmã, Emma Rae, para refrescar a cabeça. Fora de sua antiga rotina, Grace começa a questionar a autoridade de todos(n)</desc>
+    <credits>
+      <actor>Julia Roberts</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Gena Rowlands</actor>
+      <actor>Kyra Sedgwick</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-poder-do-amor-1995-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008124500 -0300" stop="20181008144000 -0300" channel="Max Up">
+    <title lang="pt">Inseparáveis (?)</title>
+    <desc lang="pt">Felipe, um empresário rico que ficou tetraplégico após um acidente, busca assistente terapêutico. Há muitos candidatos adequados para o emprego, mas ele decide contratar Tito, o ajudante do jardineiro(n)</desc>
+    <credits>
+      <actor>Oscar Martínez</actor>
+      <actor>Rodrigo De la Serna</actor>
+      <actor>Alejandra Flechner</actor>
+      <actor>Carla Peterson</actor>
+      <actor>Rita Pauls</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_inseparaveis-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008144000 -0300" stop="20181008163000 -0300" channel="Max Up">
+    <title lang="pt">Sem Reservas (?)</title>
+    <desc lang="pt">A experiente chef Kate Armstrong administra sua vida e sua cozinha com grande intensidade, mas, de repente, tudo muda quando ela torna-se a guardiã de sua sobrinha e se relaciona com um colega, que acaba de entrar para sua equipe. Eles vivem um romance em meio sua rivalidade e Kate precisa buscar sua felicidade fora da cozinha(n)</desc>
+    <credits>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Jenny Wade</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_sem-reservas-2007-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008163000 -0300" stop="20181008181000 -0300" channel="Max Up">
+    <title lang="pt">A Casa das Coelhinhas (?)</title>
+    <desc lang="pt">Shelley Darlington, símbolo sexual, vive confortavelmente na Mansão Playboy, até que uma rival ciumenta a expulsa de lá. Sem ter para onde ir, ela vai para a irmandade Zeta Alpha Zeta. As sete jovens vão perder sua casa se não conseguirem atrair mais admiradores, mas para isso elas precisam aprender os segredos da maquiagem e dos homens(n)</desc>
+    <credits>
+      <actor>Anna Faris</actor>
+      <actor>Colin Hanks</actor>
+      <actor>Emma Stone</actor>
+      <actor>Kat Dennings</actor>
+      <actor>Katharine McPhee</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_a-casa-das-coelhinhas-2008-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008181000 -0300" stop="20181008200000 -0300" channel="Max Up">
+    <title lang="pt">Passe Livre (?)</title>
+    <desc lang="pt">Os melhores amigos Rick e Fred estão casados há muito tempo e tentam revitalizar seus casamentos quando recebem permissão de suas esposas para fazer o que quiserem durante uma semana. A princípio, os amigos acreditam que estão prestes a realizar um sonho, mas, aos poucos, percebem que suas expectativas não coincidem com a realidade(n)</desc>
+    <credits>
+      <actor>Owen Wilson</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Jenna Fischer</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Nicky Whelan</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_passe-livre-2011-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008200000 -0300" stop="20181008215000 -0300" channel="Max Up">
+    <title lang="pt">Sem Reservas (?)</title>
+    <desc lang="pt">A experiente chef Kate Armstrong administra sua vida e sua cozinha com grande intensidade, mas, de repente, tudo muda quando ela torna-se a guardiã de sua sobrinha e se relaciona com um colega, que acaba de entrar para sua equipe. Eles vivem um romance em meio sua rivalidade e Kate precisa buscar sua felicidade fora da cozinha(n)</desc>
+    <credits>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Patricia Clarkson</actor>
+      <actor>Jenny Wade</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_sem-reservas-2007-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008215000 -0300" stop="20181008234000 -0300" channel="Max Up">
+    <title lang="pt">Destino Incerto (?)</title>
+    <desc lang="pt">Antes de casar, Gaby e Marco planejam a viagem de seus sonhos para a Europa. No entanto, um pouco antes de iniciar a viagem, eles terminam o relacionamento. Apesar do ocorrido, o ex-casal decide prosseguir com seu plano e realizar a aventura europeia juntos(n)</desc>
+    <credits>
+      <actor>Monserrat Cole</actor>
+      <actor>Renzo Rimolo</actor>
+      <actor>Boris Alonso</actor>
+      <actor>María Gual</actor>
+      <actor>Ricardo Cerdas</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_destino-incerto-2017_p_m.jpg" />
+  </programme>
+  <programme start="20181008234000 -0300" stop="20181009013500 -0300" channel="Max Up">
+    <title lang="pt">Inseparáveis (?)</title>
+    <desc lang="pt">Felipe, um empresário rico que ficou tetraplégico após um acidente, busca assistente terapêutico. Há muitos candidatos adequados para o emprego, mas ele decide contratar Tito, o ajudante do jardineiro(n)</desc>
+    <credits>
+      <actor>Oscar Martínez</actor>
+      <actor>Rodrigo De la Serna</actor>
+      <actor>Alejandra Flechner</actor>
+      <actor>Carla Peterson</actor>
+      <actor>Rita Pauls</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy drama</category>
+    <icon src="http://images.mi.tv/programs/br_inseparaveis-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009013500 -0300" stop="20181009032500 -0300" channel="Max Up">
+    <title lang="pt">O Preço do Desafio (?)</title>
+    <desc lang="pt">O professor de Los Angeles, Jaime Escalante, sofre com os estudantes rebeldes de sua escola e é pressionado por seu chefe, que exige bom comportamento da turma. Ele decide ensinar os alunos um programa mais avançado de matemática. Depois de estudo intensivo, os candidatos fazem o teste de cálculo do estado da Califórnia, mas suas notas são questionadas e eles terão que lutar para provar a validade dos resultados(n)</desc>
+    <credits>
+      <actor>Edward Olmos</actor>
+      <actor>Lou Phillips</actor>
+      <actor>Rosanna DeSoto</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Will Gotay</actor>
+    </credits>
+    <date>1988</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_o-preco-do-desafio-1988-2_p_m.jpg" />
+  </programme>
+  <programme start="20181009032500 -0300" stop="20181009051000 -0300" channel="Max Up">
+    <title lang="pt">Parece que Foi Ontem (?)</title>
+    <desc lang="pt">Nick Gardenia é um escritor que se mudou para um chalé nas montanhas da Califórnia para escrever um romance. Ele é raptado por um par de criminosos e forçado a participar de um assalto a banco. Fugindo da lei, Nick procura ajuda de Glenda, sua ex-mulher, uma advogada com grande coração. Sabendo que ele nunca cometeria um crime, ela o deixa ficar em sua casa apesar do seu marido ser o promotor da cidade e estar fazendo uma festa para os policiais(n)</desc>
+    <credits>
+      <actor>Chevy Chase</actor>
+      <actor>Goldie Hawn</actor>
+      <actor>Charles Grodin</actor>
+      <actor>Robert Guillaume</actor>
+      <actor>Harold Gould</actor>
+    </credits>
+    <date>1980</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_parece-que-foi-ontem-1980_p_m.jpg" />
+  </programme>
+  <programme start="20181009051000 -0300" stop="20181009051000 -0300" channel="Max Up">
+    <title lang="pt">Quando Você Viu Seu Pai Pela Última Vez? (?)</title>
+    <desc lang="pt">Apesar de sempre terem tido um relacionamento complicado, a descoberta de um câncer faz com que um poeta resolva se reconciliar com seu pai. Porém para isso, ele precisará enfrentar memórias conflitantes que viajam entre os anos 50, 60 e o fim dos anos 80(n)</desc>
+    <credits>
+      <actor>Jim Broadbent</actor>
+      <actor>Colin Firth</actor>
+      <actor>Juliet Stevenson</actor>
+      <actor>Gina McKee</actor>
+      <actor>Matthew Beard</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Biography</category>
+    <icon src="http://images.mi.tv/programs/br_quando-voce-viu-seu-pai-pela-ultima-vez-2007-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009051000 -0300" stop="20181009064500 -0300" channel="Max Up">
+    <title lang="pt">Quando Você Viu Seu Pai Pela Última Vez? (?)</title>
+    <desc lang="pt">Apesar de sempre terem tido um relacionamento complicado, a descoberta de um câncer faz com que um poeta resolva se reconciliar com seu pai. Porém para isso, ele precisará enfrentar memórias conflitantes que viajam entre os anos 50, 60 e o fim dos anos 80(n)</desc>
+    <credits>
+      <actor>Jim Broadbent</actor>
+      <actor>Colin Firth</actor>
+      <actor>Juliet Stevenson</actor>
+      <actor>Gina McKee</actor>
+      <actor>Matthew Beard</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Biography</category>
+    <icon src="http://images.mi.tv/programs/br_quando-voce-viu-seu-pai-pela-ultima-vez-2007-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009064500 -0300" stop="20181009083000 -0300" channel="Max Up">
+    <title lang="pt">Esqueça Paris (?)</title>
+    <desc lang="pt">O árbitro da NBA Mickey viaja para Paris para enterrar seu pai, mas o caixão é extraviado pela empresa aérea, que encarrega Ellen de ajudá-lo. O incidente os une e eles acabam se casando, mas uma série de acontecimentos ameaça separá-los(n)</desc>
+    <credits>
+      <actor>Billy Crystal</actor>
+      <actor>Debra Winger</actor>
+      <actor>Joe Mantegna</actor>
+      <actor>Cynthia Stevenson</actor>
+      <actor>Richard Masur</actor>
+    </credits>
+    <date>1995</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_esqueca-paris-1995_p_m.jpg" />
+    <star-rating>
+      <value>6.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009083000 -0300" stop="20181009100000 -0300" channel="Max Up">
+    <title lang="pt">Cegonhas - A História que Não te Contaram (?)</title>
+    <desc lang="pt">Uma cegonha aciona acidentalmente a máquina de fabricar bebês e agora precisa correr contra o tempo para entregar essa "encomenda" antes que o chefe descubra a trapalhada(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_cegonhas-a-historia-que-n-o-te-contaram-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009100000 -0300" stop="20181009113500 -0300" channel="Max Up">
+    <title lang="pt">Então, Vou Nessa! (?)</title>
+    <desc lang="pt">Um famoso comediante e apresentador alemão relata a história dos quase 800 km percorridos por ele pelo caminho de Santiago de Compostela(n)</desc>
+    <credits>
+      <actor>Devid Striesow</actor>
+      <actor>Martina Gedeck</actor>
+      <actor>Karoline Schuch</actor>
+      <actor>Katharina Thalbach</actor>
+      <actor>Annette Frier</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_ent-o-vou-nessa-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181009113500 -0300" stop="20181009131500 -0300" channel="Max Up">
+    <title lang="pt">Austin Powers em O Homem do Membro de Ouro (?)</title>
+    <desc lang="pt">Juntando-se ao misterioso Goldmember, Dr. Evil planeja uma viajem ao tempo para dominar o mundo e que envolve o sequestro de Nigel Powers, o amado pai de Austin, e o espião mais famoso da Inglaterra. Com ele perseguindo os vilões pelo tempo, Austin visita 1975 e junta forças com sua antiga paixão, Foxxy Cleopatra, uma esperta detetive muito elegante. Juntos, Austin e Foxxy devem encontrar uma maneira de salvar Nigel e impedir Dr. Evil e Goldmember de dominarem o mundo(n)</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Beyoncé Knowles</actor>
+      <actor>Seth Green</actor>
+      <actor>Michael York</actor>
+      <actor>Robert Wagner</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_austin-powers-em-o-homem-do-membro-de-ouro-2002-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009131500 -0300" stop="20181009151500 -0300" channel="Max Up">
+    <title lang="pt">Virando o Jogo (?)</title>
+    <desc lang="pt">Quando os jogadores de futebol americano da Liga Nacional resolvem entrar em greve por melhores salários, o time Washington Sentinels, em busca por uma solução, contrata o legendário treinador Jimmy McGinty, que tem apenas uma semana para encontrar um time de jogadores substitutos(n)</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Orlando Jones</actor>
+      <actor>Jon Favreau</actor>
+      <actor>Brooke Langton</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_virando-o-jogo-2000_p_m.jpg" />
+    <star-rating>
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009151500 -0300" stop="20181009164500 -0300" channel="Max Up">
+    <title lang="pt">Quebrando as Regras (?)</title>
+    <desc lang="pt">A vida de um editor de revista muda completamente quando sua noiva termina o relacionamento no dia da festa de noivado. Deprimido, ele sai do emprego e começa a escrever uma carta para a sua ex, e acaba escrevendo um livro sobre como acabar um namoro. A obra é um sucesso, mas as coisas ficam fora de controle quando até mesmo seus amigos começam a vê-lo como uma espécie de guru de relacionamentos(n)</desc>
+    <credits>
+      <actor>Jamie Foxx</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Morris Chestnut</actor>
+      <actor>Peter MacNicol</actor>
+      <actor>Jennifer Esposito</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_quebrando-as-regras-2004_p_m.jpg" />
+  </programme>
+  <programme start="20181009164500 -0300" stop="20181009182500 -0300" channel="Max Up">
+    <title lang="pt">Austin Powers em O Homem do Membro de Ouro (?)</title>
+    <desc lang="pt">Juntando-se ao misterioso Goldmember, Dr. Evil planeja uma viajem ao tempo para dominar o mundo e que envolve o sequestro de Nigel Powers, o amado pai de Austin, e o espião mais famoso da Inglaterra. Com ele perseguindo os vilões pelo tempo, Austin visita 1975 e junta forças com sua antiga paixão, Foxxy Cleopatra, uma esperta detetive muito elegante. Juntos, Austin e Foxxy devem encontrar uma maneira de salvar Nigel e impedir Dr. Evil e Goldmember de dominarem o mundo(n)</desc>
+    <credits>
+      <actor>Mike Myers</actor>
+      <actor>Beyoncé Knowles</actor>
+      <actor>Seth Green</actor>
+      <actor>Michael York</actor>
+      <actor>Robert Wagner</actor>
+    </credits>
+    <date>2002</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_austin-powers-em-o-homem-do-membro-de-ouro-2002-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009182500 -0300" stop="20181009200000 -0300" channel="Max Up">
+    <title lang="pt">Primeiro Bailarino (?)</title>
+    <desc lang="pt">O brasileiro Thiago Soares conquistou um feito raríssimo: foi escolhido primeiro bailarino do prestigioso Royal Ballet, de Londres. O documentário mostra como ele chegou ao cobiçado posto e qual foi o caminho até a admissão(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Documentary</category>
+    <icon src="http://images.mi.tv/programs/br_primeiro-bailarino-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009200000 -0300" stop="20181009214000 -0300" channel="Max Up">
+    <title lang="pt">Quero Matar Meu Chefe (?)</title>
+    <desc lang="pt">Três amigos têm um problema em comum: eles odeiam seus chefes exploradores. Assim, bolam um plano. Já que não podem pedir demissão, contratam um consultor que os ajudará a matar os chefes(n)</desc>
+    <credits>
+      <actor>Jason Bateman</actor>
+      <actor>Charlie Day</actor>
+      <actor>Jason Sudeikis</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Colin Farrell</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_quero-matar-meu-chefe-2011-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009214000 -0300" stop="20181009232000 -0300" channel="Max Up">
+    <title lang="pt">Música, Amigos e Festa (?)</title>
+    <desc lang="pt">Cole Carter sonha em se tornar um famoso disc jockey em Hollywood. A oportunidade surge quando ele conhece James Reed, um DJ carismático disposto a ensinar a Carter tudo o que sabe. Mas seu futuro começa a ficar incerto quando o aspirante a DJ se apaixona pela namorada do seu mentor(n)</desc>
+    <credits>
+      <actor>Zac Efron</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Emily Ratajkowski</actor>
+      <actor>Jonny Weston</actor>
+      <actor>Shiloh Fernandez</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_musica-amigos-e-festa-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181009232000 -0300" stop="20181010010500 -0300" channel="Max Up">
+    <title lang="pt">Corrida Rumo ao Sol (?)</title>
+    <desc lang="pt">Um grupo de estudantes do ensino médio participa de uma feira automobilística no Havaí com um carro movido a energia solar criado por eles mesmos e que é um sucesso. Agora querem enfrentar uma nova competição: participar do Desafio Solar Mundial(n)</desc>
+    <credits>
+      <actor>Halle Berry</actor>
+      <actor>James Belushi</actor>
+      <actor>Casey Affleck</actor>
+      <actor>Eliza Dushku</actor>
+      <actor>Kevin Tighe</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://images.mi.tv/programs/br_corrida-rumo-ao-sol-1996_p_m.jpg" />
+  </programme>
+  <programme start="20181007060000 -0300" stop="20181007075000 -0300" channel="Megapix">
+    <title lang="pt">Falando Grego (?)</title>
+    <desc lang="pt">Georgia sente que sua vida está sem rumo. Ela está totalmente desmotivada com o seu trabalho como guia de turismo na Grécia e entediada com a vida. Mas um grupo de turistas muito especial a ajuda a redescobrir a beleza da vida(n)</desc>
+    <credits>
+      <actor>Nia Vardalos</actor>
+      <actor>Richard Dreyfuss</actor>
+      <actor>María Adanez</actor>
+      <actor>Sheila Bernette</actor>
+      <actor>María Botto</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_falando-grego-2009-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007075000 -0300" stop="20181007113500 -0300" channel="Megapix">
+    <title lang="pt">Uma Aventura Animal (?)</title>
+    <desc lang="pt">Após sofrerem um acidente de avião em que o piloto morre, Zach, Hannah e seu cachorro Chinook precisam lutar para sobreviver em um lugar selvagem e cheio de perigos. Enquanto isso, sua mãe comanda a busca pelos filhos e seu cão(n)</desc>
+    <credits>
+      <actor>Natasha Henstridge</actor>
+      <actor>CJ Adams</actor>
+      <actor>Sarah Deakins</actor>
+      <actor>Rainbow Francks</actor>
+      <actor>Erin Pitt</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_uma-aventura-animal-2014_p_m.jpg" />
+  </programme>
+  <programme start="20181007113500 -0300" stop="20181007133500 -0300" channel="Megapix">
+    <title lang="pt">Para Sempre (?)</title>
+    <desc lang="pt">Paige e Leo são felizes recém-casados, mas um acidente deixa Paige em coma. Quando ela acorda, não reconhece Leo, tem problemas de relacionamento com os pais e se sente atraída pelo ex-noivo. Mas Leo está determinado a reconstruir seu casamento(n)</desc>
+    <credits>
+      <actor>Rachel McAdams</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Sam Neill</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Wendy Crewson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romance</category>
+    <icon src="http://images.mi.tv/programs/br_para-sempre-2012-1_p_m.jpg" />
+  </programme>
+  <programme start="20181007133500 -0300" stop="20181007162500 -0300" channel="Megapix">
+    <title lang="pt">Gladiador (?)</title>
+    <desc lang="pt">Commodus toma o poder e se livra de Maximus, um dos generais favoritos de seu predecessor e pai, o grande filósofo, rei e imperador Marcus Aurelius. O bravo guerreiro é forçado a se tornar gladiador nas arenas e precisa lutar pela vida(n)</desc>
+    <credits>
+      <actor>Russell Crowe</actor>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Oliver Reed</actor>
+      <actor>Derek Jacobi</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Historical drama</category>
+    <icon src="http://images.mi.tv/programs/br_gladiador-2000_p_m.jpg" />
+    <star-rating>
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007162500 -0300" stop="20181007184500 -0300" channel="Megapix">
+    <title lang="pt">Deuses do Egito (?)</title>
+    <desc lang="pt">A sobrevivência da humanidade se vê ameaçada quando Set, o impiedoso deus das trevas, apodera-se do trono do Egito e transforma o próspero Império em um caos. Na esperança de salvar o mundo e resgatar seu verdadeiro amor, um mortal chamado Bek forma uma improvável aliança com o poderoso deus Horus. Sua batalha contra Set e seus escudeiros atravessa o além e os céus para um confronto épico(n)</desc>
+    <credits>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Brenton Thwaites</actor>
+      <actor>Chadwick Boseman</actor>
+      <actor>Elodie Yung</actor>
+      <actor>Courtney Eaton</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Fantasy</category>
+    <icon src="http://images.mi.tv/programs/br_deuses-do-egito-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007184500 -0300" stop="20181007210000 -0300" channel="Megapix">
+    <title lang="pt">Ben-Hur (?)</title>
+    <desc lang="pt">O nobre Judah é injustamente acusado de traição e sobrevive a anos de escravidão para se vingar do irmão que o traiu, Messala(n)</desc>
+    <credits>
+      <actor>Jack Huston</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Rodrigo Santoro</actor>
+      <actor>Nazanin Boniadi</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://images.mi.tv/programs/br_ben-hur-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181007210000 -0300" stop="20181007225500 -0300" channel="Megapix">
+    <title lang="pt">Hércules (?)</title>
+    <desc lang="pt">Meio homem, meio deus, o semideus Hércules anda atormentado pela terra. Depois de doze árduos trabalhos realizados e a perda de sua família, ele conhece seis assassinos impiedosos e une-se ao grupo em busca de trabalho, até que o rei da Trácia convida-o para treinar o seu exército(n)</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Ian McShane</actor>
+      <actor>Rufus Sewell</actor>
+      <actor>Aksel Hennie</actor>
+      <actor>Ingrid Berdal</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://images.mi.tv/programs/br_hercules-2014_p_m.jpg" />
+    <star-rating>
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20181007225500 -0300" stop="20181008004000 -0300" channel="Megapix">
+    <title lang="pt">Herança de Sangue (?)</title>
+    <desc lang="pt">Homem precisa proteger a filha adolescente rebelde, jurada de morte por traficantes de drogas(n)</desc>
+    <credits>
+      <actor>Mel Gibson</actor>
+      <actor>Erin Moriarty</actor>
+      <actor>Diego Luna</actor>
+      <actor>William Macy</actor>
+      <actor>Michael Parks</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_heranca-de-sangue-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008004000 -0300" stop="20181008024500 -0300" channel="Megapix">
+    <title lang="pt">Corrida Mortal 3 (?)</title>
+    <desc lang="pt">Nessa sequência, a corrida de carros mais mortal do mundo acontece no isolado Deserto do Kalahari, na África do Sul, onde o lendário Frankenstein precisa vencer a última competição para recuperar sua liberdade e a de sua equipe(n)</desc>
+    <credits>
+      <actor>Luke Goss</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Dougray Scott</actor>
+      <actor>Tanit Phoenix</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Action</category>
+    <icon src="http://images.mi.tv/programs/br_corrida-mortal-3-2012_p_m.jpg" />
+  </programme>
+  <programme start="20181008024500 -0300" stop="20181008045000 -0300" channel="Megapix">
+    <title lang="pt">Ligadas pelo Desejo (?)</title>
+    <desc lang="pt">Mulher do chefão da Máfia, cansada de ser espancada por ele, se envolve com uma ex-presidiária com quem troca juras de amor. Mas para conseguirem a liberdade, precisam armar um plano para matar o bandido e fugir com todo o seu dinheiro(n)</desc>
+    <credits>
+      <actor>Jennifer Tilly</actor>
+      <actor>Gina Gershon</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Barry Kivel</actor>
+      <actor>Christopher Meloni</actor>
+    </credits>
+    <date>1996</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Thriller</category>
+    <icon src="http://images.mi.tv/programs/br_ligadas-pelo-desejo-1996_p_m.jpg" />
+  </programme>
+  <programme start="20181008045000 -0300" stop="20181008045000 -0300" channel="Megapix">
+    <title lang="pt">O Enigma da Pirâmide (?)</title>
+    <desc lang="pt">Os então jovens Sherlock Holmes e John Watson se conhecem no colégio interno. Uma série de mortes acontece no campus e Holmes suspeita de um alucinógeno. No meio da investigação, Holmes e Watson se deparam com um culto bizarro de sacrifício humano(n)</desc>
+    <credits>
+      <actor>Nicholas Rowe</actor>
+      <actor>Alan Cox</actor>
+      <actor>Sophie Ward</actor>
+      <actor>Anthony Higgins</actor>
+      <actor>Susan Fleetwood</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://images.mi.tv/programs/br_o-enigma-da-piramide-1985_p_m.jpg" />
+  </programme>
+  <programme start="20181008045000 -0300" stop="20181008070000 -0300" channel="Megapix">
+    <title lang="pt">O Enigma da Pirâmide (?)</title>
+    <desc lang="pt">Os então jovens Sherlock Holmes e John Watson se conhecem no colégio interno. Uma série de mortes acontece no campus e Holmes suspeita de um alucinógeno. No meio da investigação, Holmes e Watson se deparam com um culto bizarro de sacrifício humano(n)</desc>
+    <credits>
+      <actor>Nicholas Rowe</actor>
+      <actor>Alan Cox</actor>
+      <actor>Sophie Ward</actor>
+      <actor>Anthony Higgins</actor>
+      <actor>Susan Fleetwood</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Mystery</category>
+    <icon src="http://images.mi.tv/programs/br_o-enigma-da-piramide-1985_p_m.jpg" />
+  </programme>
+  <programme start="20181008070000 -0300" stop="20181008085000 -0300" channel="Megapix">
+    <title lang="pt">Os Caçadores (?)</title>
+    <desc lang="pt">Carter e Jordyn Flynn não são pais comuns. Para eles, um dia normal de trabalho pode acontecer em qualquer lugar do mundo, pois são arqueólogos em busca de artefatos oriundos de contos de fadas. Carter e Jordyn levam a profissão muito a sério, mas são negligentes com os filhos Paxton e Keenan, que desconhecem a natureza do trabalho de seus pais. E, quando Carter e a esposa desaparecem, os irmãos fazem descobertas surpreendentes e vivem uma aventura emocionante(n)</desc>
+    <credits>
+      <actor>Robbie Amell</actor>
+      <actor>Keenan Tracey</actor>
+      <actor>Victor Garber</actor>
+      <actor>Alexa Vega</actor>
+      <actor>Michelle Forbes</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://images.mi.tv/programs/br_os-cacadores-2013_p_m.jpg" />
+  </programme>
+  <programme start="20181008085000 -0300" stop="20181008111000 -0300" channel="Megapix">
+    <title lang="pt">Indiana Jones e o Reino da Caveira de Cristal (?)</title>
+    <desc lang="pt">Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele(n)</desc>
+    <credits>
+      <actor>Harrison Ford</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Shia La Beouf</actor>
+      <actor>Karen Allen</actor>
+      <actor>Ray Winstone</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Adventure</category>
+    <icon src="http://images.mi.tv/programs/br_indiana-jones-e-o-reino-da-caveira-de-cristal-2008_p_m.jpg" />
+    <star-rating>
+      <value>6.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20181008111000 -0300" stop="20181008130000 -0300" channel="Megapix">
+    <title lang="pt">Anastasia (?)</title>
+    <desc lang="pt">Depois do feitiço do maldoso Rasputin, a jovem Anastasia desaparece do palácio. Anos depois, sua avó, a grã-duquesa imperial que vive em Paris, oferece uma recompensa para quem trouxer sua neta de volta. De olho no dinheiro, dois russos fazem testes para encontrar uma menina parecida com a princesa, e encontram Anya, uma jovem órfã, que tem tudo para se fazer passar por Anastasia(n)</desc>
+    <date>1997</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_anastasia-1997_p_m.jpg" />
+  </programme>
+  <programme start="20181008130000 -0300" stop="20181008150000 -0300" channel="Megapix">
+    <title lang="pt">A Família Bélier (?)</title>
+    <desc lang="pt">Paula é uma adolescente que enfrenta todas as questões comuns de sua idade: o primeiro amor, os problemas na escola, as brigas com os pais. Mas sua família tem algo diferente: seus pais e seu irmão são surdos e é ela quem administra a fazenda e traduz a língua de sinais nas conversas com os vizinhos. Um dia, porém, ela descobre ter o talento para o canto e que pode integrar uma escola prestigiosa em Paris. Agora, Paula precisa fazer uma escolha que a distanciará da família e a forçará a crescer(n)</desc>
+    <credits>
+      <actor>Louane Emera</actor>
+      <actor>François Damiens</actor>
+      <actor>Karin Viard</actor>
+      <actor>Eric Elmosnino</actor>
+      <actor>Roxane Duran</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_a-familia-belier-2014-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008150000 -0300" stop="20181008171500 -0300" channel="Megapix">
+    <title lang="pt">Jogos Vorazes: A Esperança - Parte 1 (?)</title>
+    <desc lang="pt">Após sobreviver à temível arena dos Jogos Vorazes, Katniss Everdeen está desanimada e destruída. Depois que a Capital reduziu o Distrito 12 a destroços, ela se refugiou no Distrito 13. Peeta Mellark foi submetido a uma lavagem cerebral, e agora está sob o domínio de Snow. Então, a presidência quer que Katniss lidere uma "resistência" e mobilize a população em uma empreitada que irá colocá-la no centro da trama para desmascarar Snow(n)</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Liam Hemsworth</actor>
+      <actor>Woody Harrelson</actor>
+      <actor>Elizabeth Banks</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Science fiction</category>
+    <icon src="http://images.mi.tv/programs/br_jogos-vorazes-a-esperanca-parte-1-2014_p_m.jpg" />
+  </programme>
+  <programme start="20181008171500 -0300" stop="20181008193000 -0300" channel="Megapix">
+    <title lang="pt">Elis (?)</title>
+    <desc lang="pt">Cantora desde a infância, Elis Regina entra na vida adulta deixando o Rio Grande do Sul para espalhar seu talento pelo Brasil, a partir do Rio de Janeiro. Em rápida ascensão, ela logo conquista uma legião de fãs, entre eles o famoso compositor e produtor Ronaldo Bôscoli, com quem acaba se casando. Estrela de TV, polêmica, intensa e briguenta, a "Pimentinha" não tarda a ser reconhecida como a maior voz do Brasil, em carreira marcada por altos e baixos(n)</desc>
+    <credits>
+      <actor>Andréia Horta</actor>
+      <actor>Gustavo Machado</actor>
+      <actor>Caco Ciocler</actor>
+      <actor>Lúcio Filho</actor>
+      <actor>Júlio Andrade</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Biography</category>
+    <icon src="http://images.mi.tv/programs/br_elis-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181008193000 -0300" stop="20181008213000 -0300" channel="Megapix">
+    <title lang="pt">Mulheres ao Ataque (?)</title>
+    <desc lang="pt">Quando uma jovem descobre que seu namorado é casado com outra mulher, ela entra em contato com a esposa dele e propõe que as duas se vinguem juntas. Uma estranha amizade começa a nascer entre as duas, mas a situação fica pior quando elas descobrem que uma terceira mulher está envolvida. Logo, a terceira pretendente se une ao grupo, para dar o troco que este mentiroso merece(n)</desc>
+    <credits>
+      <actor>Cameron Diaz</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Kate Upton</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Taylor Kinney</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_mulheres-ao-ataque-2014-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008213000 -0300" stop="20181008235000 -0300" channel="Megapix">
+    <title lang="pt">Uma Linda Mulher (?)</title>
+    <desc lang="pt">Durante uma viagem de negócios a Los Angeles, Edward, um executivo que compra e fragmenta empresas para vendê-las, encontra a prostituta Vivian. Edward a contrata para ficar com ele durante uma semana a fim de acompanhá-lo nos jantares de negócios. Os dois se aproximam e descobrem que há vários obstáculos para serem superados até que possam unir seus mundos tão diferentes(n)</desc>
+    <credits>
+      <actor>Richard Gere</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Ralph Bellamy</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Laura San Giacomo</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_uma-linda-mulher-1990-1_p_m.jpg" />
+  </programme>
+  <programme start="20181008235000 -0300" stop="20181009020000 -0300" channel="Megapix">
+    <title lang="pt">Esposa de Mentirinha (?)</title>
+    <desc lang="pt">Com o coração partido recentemente, o cirurgião plástico Danny Maccabee finge ser casado para desfrutar sem compromisso de alguns encontros. Suas mentiras funcionam bem, até que ele conhece Palmer, a mulher de seus sonhos, mas que resiste se envolver com ele. Ao invés de ser honesto, Danny pede a Katherine, sua assistente, para fingir que é sua futura ex-esposa. As mentiras acabam criando mais problemas, e Danny se vê envolvido em divertidas confusões(n)</desc>
+    <credits>
+      <actor>Adam Sandler</actor>
+      <actor>Jennifer Aniston</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Brooklyn Decker</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_esposa-de-mentirinha-2011-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009020000 -0300" stop="20181009034500 -0300" channel="Megapix">
+    <title lang="pt">Belas e Perseguidas (?)</title>
+    <desc lang="pt">Cooper, uma policial honesta, precisa proteger e escoltar Daniella Riva, uma linda colombiana muito engraçada, durante uma viagem de San Antonio, Califórnia, até o Texas, para que ela e seu marido possam testemunhar contra um traficante de drogas(n)</desc>
+    <credits>
+      <actor>Reese Witherspoon</actor>
+      <actor>Sofía Vergara</actor>
+      <actor>Matthew Del Negro</actor>
+      <actor>Michael Mosley</actor>
+      <actor>Robert Kazinsky</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_belas-e-perseguidas-2015_p_m.jpg" />
+  </programme>
+  <programme start="20181009034500 -0300" stop="20181009055000 -0300" channel="Megapix">
+    <title lang="pt">Justin Bieber: Never Say Never (?)</title>
+    <desc lang="pt">A sensação da música pop Justin Bieber se prepara para deslumbrar a multidão em um show que teve os ingressos esgotados no Madison Square Garden em 2010. Legiões de fãs do cantor gritam quando ele aparece no centro do palco para uma noite memorável de música. Imagens do show se misturam a vídeos caseiros de Justin tocando tambores e mostrando seu talento. O artista superou o passado humilde nas ruas de uma cidade canadense para se tornar um fenômeno mundial(n)</desc>
+    <credits>
+      <actor>Justin Bieber</actor>
+      <actor>Boyz II Men</actor>
+      <actor>Miley Cyrus</actor>
+      <actor>Sean Kingston</actor>
+      <actor>Ludacris</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Documentary</category>
+    <icon src="http://images.mi.tv/programs/br_justin-bieber-never-say-never-2011_p_m.jpg" />
+  </programme>
+  <programme start="20181009055000 -0300" stop="20181009055000 -0300" channel="Megapix">
+    <title lang="pt">Philomena (?)</title>
+    <desc lang="pt">Irlanda, 1952. Após ficar grávida fora do casamento, Philomena é mandada para um convento. Lá ela tem seu filho, mas convive pouco tempo com ele, já que é obrigada a entregá-lo para adoção. A criança é adotada por um casal americano, e, durante 50 anos, Philomena busca incansavelmente pelo filho, com a ajuda do jornalista Martin. Ao viajar para os Estados Unidos, eles descobrem informações incríveis sobre a vida do filho de Philomena e criam um intenso laço de afetividade entre os dois(n)</desc>
+    <credits>
+      <actor>Judi Dench</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Michelle Fairley</actor>
+      <actor>Barbara Jefford</actor>
+      <actor>Anna Maxwell Martin</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Docudrama</category>
+    <icon src="http://images.mi.tv/programs/br_philomena-2013_p_m.jpg" />
+  </programme>
+  <programme start="20181009055000 -0300" stop="20181009074500 -0300" channel="Megapix">
+    <title lang="pt">Philomena (?)</title>
+    <desc lang="pt">Irlanda, 1952. Após ficar grávida fora do casamento, Philomena é mandada para um convento. Lá ela tem seu filho, mas convive pouco tempo com ele, já que é obrigada a entregá-lo para adoção. A criança é adotada por um casal americano, e, durante 50 anos, Philomena busca incansavelmente pelo filho, com a ajuda do jornalista Martin. Ao viajar para os Estados Unidos, eles descobrem informações incríveis sobre a vida do filho de Philomena e criam um intenso laço de afetividade entre os dois(n)</desc>
+    <credits>
+      <actor>Judi Dench</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Michelle Fairley</actor>
+      <actor>Barbara Jefford</actor>
+      <actor>Anna Maxwell Martin</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Docudrama</category>
+    <icon src="http://images.mi.tv/programs/br_philomena-2013_p_m.jpg" />
+  </programme>
+  <programme start="20181009074500 -0300" stop="20181009094500 -0300" channel="Megapix">
+    <title lang="pt">Para Sempre (?)</title>
+    <desc lang="pt">Paige e Leo são felizes recém-casados, mas um acidente deixa Paige em coma. Quando ela acorda, não reconhece Leo, tem problemas de relacionamento com os pais e se sente atraída pelo ex-noivo. Mas Leo está determinado a reconstruir seu casamento(n)</desc>
+    <credits>
+      <actor>Rachel McAdams</actor>
+      <actor>Channing Tatum</actor>
+      <actor>Sam Neill</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Wendy Crewson</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romance</category>
+    <icon src="http://images.mi.tv/programs/br_para-sempre-2012-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009094500 -0300" stop="20181009115000 -0300" channel="Megapix">
+    <title lang="pt">O que Esperar Quando Você Está Esperando (?)</title>
+    <desc lang="pt">Os desafios e dificuldades da paternidade iminente transformam a vida de cinco casais de cabeça para baixo(n)</desc>
+    <credits>
+      <actor>Cameron Diaz</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Elizabeth Banks</actor>
+      <actor>Chace Crawford</actor>
+      <actor>Brooklyn Decker</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_o-que-esperar-quando-voce-esta-esperando-2012-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009115000 -0300" stop="20181009135000 -0300" channel="Megapix">
+    <title lang="pt">Tudo em Família (?)</title>
+    <desc lang="pt">A família Stone se une por uma causa comum quando o filho favorito traz a namorada reprimida para passar o Natal em casa e ainda planeja pedi-la em casamento. Surpreendida pela recepção hostil, a garota pede apoio emocional à irmã, complicando ainda mais a situação(n)</desc>
+    <credits>
+      <actor>Dermot Mulroney</actor>
+      <actor>Sarah Parker</actor>
+      <actor>Diane Keaton</actor>
+      <actor>Luke Wilson</actor>
+      <actor>Claire Danes</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Romantic comedy</category>
+    <icon src="http://images.mi.tv/programs/br_tudo-em-familia-2005_p_m.jpg" />
+    <star-rating>
+      <value>6.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009135000 -0300" stop="20181009160000 -0300" channel="Megapix">
+    <title lang="pt">A Escolha Perfeita (?)</title>
+    <desc lang="pt">Obrigada a ir para a faculdade contra a vontade, a rebelde Beca não se interessa em participar de atividades extracurriculares, até surgir a oportunidade de ingressar no grupo musical Barden Bella e competir no Campeonato Regional de Música(n)</desc>
+    <credits>
+      <actor>Anna Kendrick</actor>
+      <actor>Skylar Astin</actor>
+      <actor>Rebel Wilson</actor>
+      <actor>Adam DeVine</actor>
+      <actor>Anna Camp</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Musical comedy</category>
+    <icon src="http://images.mi.tv/programs/br_a-escolha-perfeita-2012-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009160000 -0300" stop="20181009180000 -0300" channel="Megapix">
+    <title lang="pt">Aquamarine (?)</title>
+    <desc lang="pt">Duas garotas de doze anos de idade adoram o dilapidado clube de praia próximo às suas casas. Depois de uma tempestade violenta, as garotas descobrem a sereia Aquamarine na piscina do clube. A sereia se apaixona pelo salva-vidas bonitão que trabalha no clube e implora às garotas que a ajudem a conquistar o bonitão(n)</desc>
+    <credits>
+      <actor>Sara Paxton</actor>
+      <actor>Joanna Levesque</actor>
+      <actor>Emma Roberts</actor>
+      <actor>Jake McDorman</actor>
+      <actor>Arielle Kebbel</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_aquamarine-2006_p_m.jpg" />
+    <star-rating>
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20181009180000 -0300" stop="20181009195000 -0300" channel="Megapix">
+    <title lang="pt">A Era do Gelo 3 (?)</title>
+    <desc lang="pt">Depois que Sid rouba alguns ovos de dinossauro, Manny, Diego e o resto de seus amigos pré-históricos entram em um mundo misterioso e subterrâneo para resgatar Sid. Durante o curso da sua missão, o grupo encontra muitas criaturas grandes e pequenas, incluindo os carnívoros famintos e implacáveis, caçando o dinossauro chamado Buck(n)</desc>
+    <credits>
+      <actor>Eunice Cho</actor>
+      <actor>Harrison Fahn</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_a-era-do-gelo-3-2009-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009195000 -0300" stop="20181009213000 -0300" channel="Megapix">
+    <title lang="pt">É Fada (?)</title>
+    <desc lang="pt">Uma fada tagarela e atrapalhada recebe a missão de ajudar uma jovem garota que não acredita no mundo da magia(n)</desc>
+    <credits>
+      <actor>Charles Paraventi</actor>
+      <actor>Kéfera Buchmann</actor>
+      <actor>Bruna Griphao</actor>
+      <actor>Klara Castanho</actor>
+      <actor>Carla Daniel</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_e-fada-2016_p_m.jpg" />
+  </programme>
+  <programme start="20181009213000 -0300" stop="20181009233000 -0300" channel="Megapix">
+    <title lang="pt">O Fada do Dente (?)</title>
+    <desc lang="pt">O jogador de hóquei Derek Thompson é o terror do gelo e leva o apelido de "Fada do Dente" por quebrar os dentes de seus adversários. Quando Derek acaba com o sonho de uma jovem fã, ele é rapidamente sentenciado a cumprir pena de uma semana, representando uma real fada do dente, com asas e varinha mágica. Embora ele não goste muito, seu novo trabalho o ajuda a redescobrir seus sonhos deixados para trás(n)</desc>
+    <credits>
+      <actor>Dwayne Johnson</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Stephen Merchant</actor>
+      <actor>Ryan Sheckler</actor>
+      <actor>Seth MacFarlane</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Children</category>
+    <icon src="http://images.mi.tv/programs/br_o-fada-do-dente-2010-1_p_m.jpg" />
+  </programme>
+  <programme start="20181009233000 -0300" stop="20181010011500 -0300" channel="Megapix">
+    <title lang="pt">O Fada do Dente 2 (?)</title>
+    <desc lang="pt">Para conquistar a mulher de seus sonhos, Larry se inscreve como voluntário para ajudar crianças. Mas, ao revelar a um menino que fadas do dente não são reais, Larry é condenado a ser uma fada por dez dias para mostrar que a mágica realmente existe(n)</desc>
+    <credits>
+      <actor>Larry the Cable Guy</actor>
+      <actor>David Mackey</actor>
+      <actor>Erin Beute</actor>
+      <actor>Lucius Baston</actor>
+      <actor>Brady Reiter</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Cine</category>
+    <category lang="pt">Comedy</category>
+    <icon src="http://images.mi.tv/programs/br_o-fada-do-dente-2-2012-1_p_m.jpg" />
   </programme>
 </tv>
