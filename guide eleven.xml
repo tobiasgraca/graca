@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ELEVEN SPORTS 1 FULLHD">
+    <display-name lang="pt">ELEVEN SPORTS 1 FULLHD</display-name>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg" />
+    <url>http://www.elevensports</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 2 FULLHD">
+    <display-name lang="pt">ELEVEN SPORTS 2 FULLHD</display-name>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg" />
+    <url>http://www.elevensports</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 3 FULLHD">
+    <display-name lang="pt">ELEVEN SPORTS 3 FULLHD</display-name>
+    <url>http://www.elevensports</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 4 FULLHD">
+    <display-name lang="pt">ELEVEN SPORTS 4 FULLHD</display-name>
+    <url>http://www.elevensports</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 5 FULLHD">
+    <display-name lang="pt">ELEVEN SPORTS 5 FULLHD</display-name>
+    <url>http://www.elevensports</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 6 FULLHD">
+    <display-name lang="pt">ELEVEN SPORTS 6 FULLHD</display-name>
+    <url>http://www.elevensports</url>
+  </channel>
+  <programme start="20181117000000 +0000" stop="20181117003000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646887.jpg" />
+  </programme>
+  <programme start="20181117003000 +0000" stop="20181117010000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">UCL MAGAZINE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646888.jpg" />
+  </programme>
+  <programme start="20181117010000 +0000" stop="20181117030000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LOSC VS STRASBOURG</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646889.jpg" />
+  </programme>
+  <programme start="20181117030000 +0000" stop="20181117050000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">FRANKFURT VS SCHALKE 04</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646890.jpg" />
+  </programme>
+  <programme start="20181117050000 +0000" stop="20181117070000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LIVINGSTON VS CELTIC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646891.jpg" />
+  </programme>
+  <programme start="20181117070000 +0000" stop="20181117080000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646892.jpg" />
+  </programme>
+  <programme start="20181117080000 +0000" stop="20181117083000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">UCL MAGAZINE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646893.jpg" />
+  </programme>
+  <programme start="20181117083000 +0000" stop="20181117103000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">B DORTMUND VS BAYERN MUNIQUE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646894.jpg" />
+  </programme>
+  <programme start="20181117103000 +0000" stop="20181117123000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">NAPOLI VS PSG</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646895.jpg" />
+  </programme>
+  <programme start="20181117123000 +0000" stop="20181117130000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA CHRONICLES</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646896.jpg" />
+  </programme>
+  <programme start="20181117130000 +0000" stop="20181117150000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LYON VS HOFFENHEIM</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646897.jpg" />
+  </programme>
+  <programme start="20181117150000 +0000" stop="20181117153000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA WORLD MAGAZINE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646898.jpg" />
+  </programme>
+  <programme start="20181117153000 +0000" stop="20181117173000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">JUVENTUS VS MAN UNITED</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646899.jpg" />
+  </programme>
+  <programme start="20181117173000 +0000" stop="20181117193000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ALAVÉS VS HUESCA</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646900.jpg" />
+  </programme>
+  <programme start="20181117193000 +0000" stop="20181117203000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BARÇA TV</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646901.jpg" />
+  </programme>
+  <programme start="20181117203000 +0000" stop="20181117210000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BUNDESLIGA EXTRA</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646902.jpg" />
+  </programme>
+  <programme start="20181117210000 +0000" stop="20181117213000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA CHRONICLES</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646903.jpg" />
+  </programme>
+  <programme start="20181117213000 +0000" stop="20181117233000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">PLZEN VS REAL MADRID</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646904.jpg" />
+  </programme>
+  <programme start="20181117233000 +0000" stop="20181118000000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646905.jpg" />
+  </programme>
+  <programme start="20181117000000 +0000" stop="20181117012000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ANDERLECHT VS GENT</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648953.jpg" />
+  </programme>
+  <programme start="20181117012000 +0000" stop="20181117050000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BARÇA TV</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648954.jpg" />
+  </programme>
+  <programme start="20181117050000 +0000" stop="20181117070000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">RAYO VS VILLAREAL</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648955.jpg" />
+  </programme>
+  <programme start="20181117070000 +0000" stop="20181117090000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">SEVILLA VS ESPANYOL</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648956.jpg" />
+  </programme>
+  <programme start="20181117090000 +0000" stop="20181117110000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ANDERLECHT VS GENT</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648957.jpg" />
+  </programme>
+  <programme start="20181117110000 +0000" stop="20181117113000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">UCL MAGAZINE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648958.jpg" />
+  </programme>
+  <programme start="20181117113000 +0000" stop="20181117133000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">NIME VS NICE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648959.jpg" />
+  </programme>
+  <programme start="20181117133000 +0000" stop="20181117153000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">SEVILLA VS ESPANYOL</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648960.jpg" />
+  </programme>
+  <programme start="20181117153000 +0000" stop="20181117173000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DORTMUND VS BAYERN</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648961.jpg" />
+  </programme>
+  <programme start="20181117173000 +0000" stop="20181117180000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">UCL MAGAZINE</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648962.jpg" />
+  </programme>
+  <programme start="20181117180000 +0000" stop="20181117190000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BUNDESLIGA HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648963.jpg" />
+  </programme>
+  <programme start="20181117190000 +0000" stop="20181117193000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648964.jpg" />
+  </programme>
+  <programme start="20181117193000 +0000" stop="20181117214500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">MORABANC VS UNICAJA</title>
+    <category lang="pt">Basquetebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648965.jpg" />
+  </programme>
+  <programme start="20181117214500 +0000" stop="20181117234500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA'S</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648966.jpg" />
+  </programme>
+  <programme start="20181117234500 +0000" stop="20181118000000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LIVINGSTON VS CELTIC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648967.jpg" />
+  </programme>
+</tv>
