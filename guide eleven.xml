@@ -26,174 +26,473 @@
     <display-name lang="pt">ELEVEN SPORTS 6 FULLHD</display-name>
     <url>http://www.elevensports</url>
   </channel>
-  <programme start="20181117000000 +0000" stop="20181117003000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">FIFA FOOTBALL SHOW</title>
+  <programme start="20190115000000 +0000" stop="20190115010000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LIGUE 1 HIGHLIGHTS</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646887.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667941.jpg" />
   </programme>
-  <programme start="20181117003000 +0000" stop="20181117010000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">UCL MAGAZINE</title>
+  <programme start="20190115010000 +0000" stop="20190115030000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">GENK VS GENT</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646888.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667942.jpg" />
   </programme>
-  <programme start="20181117010000 +0000" stop="20181117030000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">LOSC VS STRASBOURG</title>
+  <programme start="20190115030000 +0000" stop="20190115050000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">RANGERS VS CELTIC</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646889.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667943.jpg" />
   </programme>
-  <programme start="20181117030000 +0000" stop="20181117050000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">FRANKFURT VS SCHALKE 04</title>
+  <programme start="20190115050000 +0000" stop="20190115070000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BAYER LEVERKUSEN VS HERTHA</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646890.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667944.jpg" />
   </programme>
-  <programme start="20181117050000 +0000" stop="20181117070000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">LIVINGSTON VS CELTIC</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646891.jpg" />
-  </programme>
-  <programme start="20181117070000 +0000" stop="20181117080000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+  <programme start="20190115070000 +0000" stop="20190115080000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
     <title lang="pt">LALIGA HIGHLIGHTS</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646892.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667945.jpg" />
   </programme>
-  <programme start="20181117080000 +0000" stop="20181117083000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">UCL MAGAZINE</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646893.jpg" />
-  </programme>
-  <programme start="20181117083000 +0000" stop="20181117103000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">B DORTMUND VS BAYERN MUNIQUE</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646894.jpg" />
-  </programme>
-  <programme start="20181117103000 +0000" stop="20181117123000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">NAPOLI VS PSG</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646895.jpg" />
-  </programme>
-  <programme start="20181117123000 +0000" stop="20181117130000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">LALIGA CHRONICLES</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646896.jpg" />
-  </programme>
-  <programme start="20181117130000 +0000" stop="20181117150000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">LYON VS HOFFENHEIM</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646897.jpg" />
-  </programme>
-  <programme start="20181117150000 +0000" stop="20181117153000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">LALIGA WORLD MAGAZINE</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646898.jpg" />
-  </programme>
-  <programme start="20181117153000 +0000" stop="20181117173000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">JUVENTUS VS MAN UNITED</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646899.jpg" />
-  </programme>
-  <programme start="20181117173000 +0000" stop="20181117193000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">ALAVÉS VS HUESCA</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646900.jpg" />
-  </programme>
-  <programme start="20181117193000 +0000" stop="20181117203000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">BARÇA TV</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646901.jpg" />
-  </programme>
-  <programme start="20181117203000 +0000" stop="20181117210000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">BUNDESLIGA EXTRA</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646902.jpg" />
-  </programme>
-  <programme start="20181117210000 +0000" stop="20181117213000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">LALIGA CHRONICLES</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646903.jpg" />
-  </programme>
-  <programme start="20181117213000 +0000" stop="20181117233000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
-    <title lang="pt">PLZEN VS REAL MADRID</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646904.jpg" />
-  </programme>
-  <programme start="20181117233000 +0000" stop="20181118000000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+  <programme start="20190115080000 +0000" stop="20190115083000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
     <title lang="pt">FIFA FOOTBALL SHOW</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/646905.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667946.jpg" />
   </programme>
-  <programme start="20181117000000 +0000" stop="20181117012000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">ANDERLECHT VS GENT</title>
+  <programme start="20190115083000 +0000" stop="20190115103000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">AMIENS VS PSG</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648953.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667947.jpg" />
   </programme>
-  <programme start="20181117012000 +0000" stop="20181117050000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">BARÇA TV</title>
+  <programme start="20190115103000 +0000" stop="20190115123000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">RANGERS VS CELTIC</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648954.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667948.jpg" />
   </programme>
-  <programme start="20181117050000 +0000" stop="20181117070000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">RAYO VS VILLAREAL</title>
+  <programme start="20190115123000 +0000" stop="20190115130000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648955.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667949.jpg" />
   </programme>
-  <programme start="20181117070000 +0000" stop="20181117090000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">SEVILLA VS ESPANYOL</title>
+  <programme start="20190115130000 +0000" stop="20190115140000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BUNDESLIGA SPECIAL</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648956.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667950.jpg" />
   </programme>
-  <programme start="20181117090000 +0000" stop="20181117110000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">ANDERLECHT VS GENT</title>
+  <programme start="20190115140000 +0000" stop="20190115160000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LEGANES VS HUESCA</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648957.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667951.jpg" />
   </programme>
-  <programme start="20181117110000 +0000" stop="20181117113000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">UCL MAGAZINE</title>
+  <programme start="20190115160000 +0000" stop="20190115180000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ATL BILBAO VS SEVILLA</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648958.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667952.jpg" />
   </programme>
-  <programme start="20181117113000 +0000" stop="20181117133000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">NIME VS NICE</title>
+  <programme start="20190115180000 +0000" stop="20190115183000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA WORLD</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648959.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667953.jpg" />
   </programme>
-  <programme start="20181117133000 +0000" stop="20181117153000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">SEVILLA VS ESPANYOL</title>
+  <programme start="20190115183000 +0000" stop="20190115190000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648960.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667954.jpg" />
   </programme>
-  <programme start="20181117153000 +0000" stop="20181117173000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">DORTMUND VS BAYERN</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648961.jpg" />
-  </programme>
-  <programme start="20181117173000 +0000" stop="20181117180000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">UCL MAGAZINE</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648962.jpg" />
-  </programme>
-  <programme start="20181117180000 +0000" stop="20181117190000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">BUNDESLIGA HIGHLIGHTS</title>
-    <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648963.jpg" />
-  </programme>
-  <programme start="20181117190000 +0000" stop="20181117193000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+  <programme start="20190115190000 +0000" stop="20190115193000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
     <title lang="pt">FIFA FOOTBALL SHOW</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648964.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667955.jpg" />
   </programme>
-  <programme start="20181117193000 +0000" stop="20181117214500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">MORABANC VS UNICAJA</title>
-    <category lang="pt">Basquetebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648965.jpg" />
-  </programme>
-  <programme start="20181117214500 +0000" stop="20181117234500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">LALIGA'S</title>
+  <programme start="20190115193000 +0000" stop="20190115200000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648966.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667956.jpg" />
   </programme>
-  <programme start="20181117234500 +0000" stop="20181118000000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
-    <title lang="pt">LIVINGSTON VS CELTIC</title>
+  <programme start="20190115200000 +0000" stop="20190115220000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BARCELONA VS EIBAR</title>
     <category lang="pt">Futebol</category>
-    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2018/11/17/648967.jpg" />
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667957.jpg" />
+  </programme>
+  <programme start="20190115220000 +0000" stop="20190116000000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">MONACO VS STADE REIMS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667958.jpg" />
+  </programme>
+  <programme start="20190116000000 +0000" stop="20190116010000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116010000 +0000" stop="20190116030000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ANDERLECHT VS WAASLAND</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116030000 +0000" stop="20190116050000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">HIBERNIAN VS HEARTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116050000 +0000" stop="20190116070000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LEIPZIG VS WERDER</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116070000 +0000" stop="20190116080000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116080000 +0000" stop="20190116083000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116083000 +0000" stop="20190116103000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">DIJON VS MONTPELLIER</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116103000 +0000" stop="20190116123000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">HIBERNIAN VS HEARTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116123000 +0000" stop="20190116133000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LIGUE 1 HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116133000 +0000" stop="20190116140000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BUNDESLIGA SPECIAL</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116140000 +0000" stop="20190116160000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">VALENCIA VS VALLADOLID</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116160000 +0000" stop="20190116180000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">TOULOUSE VS LYON</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116180000 +0000" stop="20190116200000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">MONACO VS NICE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116200000 +0000" stop="20190116220000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">REAL SOCIEDAD VS ESPANYOL</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116220000 +0000" stop="20190117000000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LYON VS STRASBOURG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117000000 +0000" stop="20190117003000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA WORLD</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117003000 +0000" stop="20190117010000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117010000 +0000" stop="20190117030000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">GENK VS GENT</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117030000 +0000" stop="20190117050000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">RANGERS VS CELTIC</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117050000 +0000" stop="20190117070000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">FRANKFURT VS BAYERN MUNIQUE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117070000 +0000" stop="20190117080000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA CHRONICLES</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117080000 +0000" stop="20190117083000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117083000 +0000" stop="20190117103000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">CAEN VS LILLE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117103000 +0000" stop="20190117123000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">RANGERS VS CELTIC</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117123000 +0000" stop="20190117130000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">SPFL HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117130000 +0000" stop="20190117140000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BUNDESLIGA SPECIAL</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117140000 +0000" stop="20190117160000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">GIRONA VS ALAVÉS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117160000 +0000" stop="20190117180000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BARCELONA VS EIBAR</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117180000 +0000" stop="20190117183000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117183000 +0000" stop="20190117190000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">LALIGA WORLD</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117190000 +0000" stop="20190117193000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117193000 +0000" stop="20190117200000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BUNDESLIGA SPECIAL</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117200000 +0000" stop="20190117220000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">ATL MADRID VS LEVANTE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117220000 +0000" stop="20190118000000 +0000" channel="ELEVEN SPORTS 1 FULLHD">
+    <title lang="pt">BORDEAUX VS LE HAVRE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190115000000 +0000" stop="20190115023000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DARDOS WORLD CHAMPIONSHIP</title>
+    <category lang="pt">Dardos</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667993.jpg" />
+  </programme>
+  <programme start="20190115023000 +0000" stop="20190115030000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA WORLD</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667994.jpg" />
+  </programme>
+  <programme start="20190115030000 +0000" stop="20190115040000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA TOP GOALS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667995.jpg" />
+  </programme>
+  <programme start="20190115040000 +0000" stop="20190115050000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA TOP SAVES</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667996.jpg" />
+  </programme>
+  <programme start="20190115050000 +0000" stop="20190115070000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">MONACO VS STADE REIMS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667997.jpg" />
+  </programme>
+  <programme start="20190115070000 +0000" stop="20190115090000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">GENK VS GENT</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667998.jpg" />
+  </programme>
+  <programme start="20190115090000 +0000" stop="20190115100000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA 123 HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/667999.jpg" />
+  </programme>
+  <programme start="20190115100000 +0000" stop="20190115103000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668000.jpg" />
+  </programme>
+  <programme start="20190115103000 +0000" stop="20190115124500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DARDOS WORLD CHAMPIONSHIP</title>
+    <category lang="pt">Dardos</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668001.jpg" />
+  </programme>
+  <programme start="20190115124500 +0000" stop="20190115144500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">PSG VS GUINGAMP</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668002.jpg" />
+  </programme>
+  <programme start="20190115144500 +0000" stop="20190115164500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DORTMUND VS MONCHENGLADBACH</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668003.jpg" />
+  </programme>
+  <programme start="20190115164500 +0000" stop="20190115171500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA CHRONICLES</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668004.jpg" />
+  </programme>
+  <programme start="20190115171500 +0000" stop="20190115174500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668005.jpg" />
+  </programme>
+  <programme start="20190115174500 +0000" stop="20190115194500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">HIBERNIAN VS HEARTS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668006.jpg" />
+  </programme>
+  <programme start="20190115194500 +0000" stop="20190115201500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BUNDESLIGA SPECIAL</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668007.jpg" />
+  </programme>
+  <programme start="20190115201500 +0000" stop="20190115211500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LIGUE 1 HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668008.jpg" />
+  </programme>
+  <programme start="20190115211500 +0000" stop="20190115221500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BARÇA TV</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668009.jpg" />
+  </programme>
+  <programme start="20190115221500 +0000" stop="20190115230000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668010.jpg" />
+  </programme>
+  <programme start="20190115230000 +0000" stop="20190116000000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ISA SURF ADAPTIVE SURFING CHAMPIONSHIP</title>
+    <category lang="pt">Surf</category>
+    <icon src="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/epg/2019/01/15/668011.jpg" />
+  </programme>
+  <programme start="20190116000000 +0000" stop="20190116004500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DRONES CHAMPIONS LEAGUE</title>
+    <category lang="pt">Drones</category>
+  </programme>
+  <programme start="20190116004500 +0000" stop="20190116030000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">EAGLES VS SAINTS</title>
+    <category lang="pt">Futebol Americano</category>
+  </programme>
+  <programme start="20190116030000 +0000" stop="20190116033000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116033000 +0000" stop="20190116040000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA CHRONICLES</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116040000 +0000" stop="20190116050000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DRONES CHAMPIONS LEAGUE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116050000 +0000" stop="20190116070000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LYON VS STRASBOURG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116070000 +0000" stop="20190116090000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ANDERLECHT VS WAASLAND</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116090000 +0000" stop="20190116100000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BARÇA TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116100000 +0000" stop="20190116103000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA WORLD</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116103000 +0000" stop="20190116113000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DRONES CHAMPIONS LEAGUE</title>
+    <category lang="pt">Drones</category>
+  </programme>
+  <programme start="20190116113000 +0000" stop="20190116124500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ISA SURF WORLD ADAPTIVE SURFING</title>
+    <category lang="pt">Surf</category>
+  </programme>
+  <programme start="20190116124500 +0000" stop="20190116144500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">MONACO VS STADE RENNAIS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116144500 +0000" stop="20190116164500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">FRANKFURT VS BAYERN MUNIQUE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116164500 +0000" stop="20190116171500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116171500 +0000" stop="20190116180000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA WORLD</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116180000 +0000" stop="20190116200000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">MONACO VS NICE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116200000 +0000" stop="20190116220000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ST. ETIENNE VS MARSEILLE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116220000 +0000" stop="20190116230000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA 123 HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190116230000 +0000" stop="20190117000000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ISA SURF WORLD ADAPTIVE SURFING</title>
+    <category lang="pt">Surf</category>
+  </programme>
+  <programme start="20190117000000 +0000" stop="20190117023000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DARDOS WORLD CHAMPIONSHIP</title>
+    <category lang="pt">Dardos</category>
+  </programme>
+  <programme start="20190117023000 +0000" stop="20190117030000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA CHRONICLES</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117030000 +0000" stop="20190117040000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BARÇA TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117040000 +0000" stop="20190117050000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA BEST MATCHES</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117050000 +0000" stop="20190117070000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BORDEAUX VS LE HAVRE</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117070000 +0000" stop="20190117090000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">GENK VS GENT</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117090000 +0000" stop="20190117100000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA BEST MATCHES</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117100000 +0000" stop="20190117103000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">ARSENAL TV</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117103000 +0000" stop="20190117124500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">DARDOS WORLD CHAMPIONSHIP</title>
+    <category lang="pt">Dardos</category>
+  </programme>
+  <programme start="20190117124500 +0000" stop="20190117144500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LYON VS STRASBOURG</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117144500 +0000" stop="20190117164500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">RB LEIPZIG VS WERDER BREMEN</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117164500 +0000" stop="20190117174500 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA 123 HIGHLIGHTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117174500 +0000" stop="20190117200000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">HIBERNIAN VS HEARTS</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117200000 +0000" stop="20190117220000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">TOULOUSE VS LYON</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117220000 +0000" stop="20190117223000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">FIFA FOOTBALL SHOW</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117223000 +0000" stop="20190117230000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LIGUE 1 PREVIEW</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117230000 +0000" stop="20190117233000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">LALIGA SHOW</title>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20190117233000 +0000" stop="20190118000000 +0000" channel="ELEVEN SPORTS 2 FULLHD">
+    <title lang="pt">BUNDESLIGA WEEKLY</title>
+    <category lang="pt">Futebol</category>
   </programme>
 </tv>
